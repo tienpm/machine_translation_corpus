@@ -1,0 +1,132 @@
+2021-11-28 19:10:10,834 - iaa_evaluation - INFO - Evaluating mapping & correct for SET 1...
+2021-11-28 19:10:10,834 - iaa_evaluation - INFO - TP = 13, FP = 3, FN = 0
+2021-11-28 19:10:10,834 - iaa_evaluation - INFO - F1 score of sentence 1: 89.655172
+2021-11-28 19:10:10,834 - iaa_evaluation - INFO - TP = 30, FP = 2, FN = 0
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - F1 score of sentence 2: 96.774194
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - TP = 20, FP = 1, FN = 0
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - F1 score of sentence 3: 97.560976
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - TP = 24, FP = 1, FN = 0
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - F1 score of sentence 4: 97.959184
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - TP = 13, FP = 0, FN = 0
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - F1 score of sentence 5: 100.000000
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - TP = 21, FP = 0, FN = 0
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - F1 score of sentence 6: 100.000000
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - TP = 27, FP = 6, FN = 1
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - F1 score of sentence 7: 88.524590
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - TP = 15, FP = 1, FN = 0
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - F1 score of sentence 8: 96.774194
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - TP = 23, FP = 1, FN = 0
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - F1 score of sentence 9: 97.872340
+2021-11-28 19:10:10,835 - iaa_evaluation - INFO - TP = 7, FP = 1, FN = 3
+2021-11-28 19:10:10,836 - iaa_evaluation - INFO - F1 score of sentence 10: 77.777778
+2021-11-28 19:10:10,836 - iaa_evaluation - INFO - Inner annotator agreement of SET 1: 94.289843
+2021-11-28 19:10:10,836 - iaa_evaluation - INFO - Evaluating mapping & correct for SET 2...
+2021-11-28 19:10:10,836 - iaa_evaluation - INFO - TP = 23, FP = 1, FN = 3
+2021-11-28 19:10:10,836 - iaa_evaluation - INFO - F1 score of sentence 1: 92.000000
+2021-11-28 19:10:10,836 - iaa_evaluation - INFO - TP = 18, FP = 0, FN = 7
+2021-11-28 19:10:10,836 - iaa_evaluation - INFO - F1 score of sentence 2: 83.720930
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - TP = 22, FP = 8, FN = 0
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - F1 score of sentence 3: 84.615385
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - TP = 42, FP = 1, FN = 1
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - F1 score of sentence 4: 97.674419
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - TP = 37, FP = 0, FN = 3
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - F1 score of sentence 5: 96.103896
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - TP = 25, FP = 0, FN = 0
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - F1 score of sentence 6: 100.000000
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - TP = 21, FP = 0, FN = 1
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - F1 score of sentence 7: 97.674419
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - TP = 20, FP = 0, FN = 0
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - F1 score of sentence 8: 100.000000
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - TP = 21, FP = 1, FN = 0
+2021-11-28 19:10:10,837 - iaa_evaluation - INFO - F1 score of sentence 9: 97.674419
+2021-11-28 19:10:10,838 - iaa_evaluation - INFO - TP = 33, FP = 0, FN = 1
+2021-11-28 19:10:10,838 - iaa_evaluation - INFO - F1 score of sentence 10: 98.507463
+2021-11-28 19:10:10,838 - iaa_evaluation - INFO - Inner annotator agreement of SET 2: 94.797093
+2021-11-28 19:10:10,838 - iaa_evaluation - INFO - Evaluating mapping & correct for SET 3...
+2021-11-28 19:10:10,838 - iaa_evaluation - INFO - TP = 23, FP = 1, FN = 0
+2021-11-28 19:10:10,838 - iaa_evaluation - INFO - F1 score of sentence 1: 97.872340
+2021-11-28 19:10:10,838 - iaa_evaluation - INFO - TP = 44, FP = 1, FN = 1
+2021-11-28 19:10:10,838 - iaa_evaluation - INFO - F1 score of sentence 2: 97.777778
+2021-11-28 19:10:10,838 - iaa_evaluation - INFO - TP = 50, FP = 2, FN = 0
+2021-11-28 19:10:10,838 - iaa_evaluation - INFO - F1 score of sentence 3: 98.039216
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - TP = 40, FP = 2, FN = 0
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - F1 score of sentence 4: 97.560976
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - TP = 20, FP = 1, FN = 0
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - F1 score of sentence 5: 97.560976
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - TP = 38, FP = 0, FN = 0
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - F1 score of sentence 6: 100.000000
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - TP = 30, FP = 0, FN = 0
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - F1 score of sentence 7: 100.000000
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - TP = 18, FP = 0, FN = 0
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - F1 score of sentence 8: 100.000000
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - TP = 15, FP = 0, FN = 0
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - F1 score of sentence 9: 100.000000
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - TP = 46, FP = 2, FN = 2
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - F1 score of sentence 10: 95.833333
+2021-11-28 19:10:10,839 - iaa_evaluation - INFO - Inner annotator agreement of SET 3: 98.464462
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - Evaluating mapping & correct for SET 4...
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - TP = 17, FP = 0, FN = 0
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - F1 score of sentence 1: 100.000000
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - TP = 15, FP = 0, FN = 0
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - F1 score of sentence 2: 100.000000
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - TP = 20, FP = 0, FN = 0
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - F1 score of sentence 3: 100.000000
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - TP = 9, FP = 0, FN = 0
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - F1 score of sentence 4: 100.000000
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - TP = 14, FP = 0, FN = 0
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - F1 score of sentence 5: 100.000000
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - TP = 14, FP = 0, FN = 0
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - F1 score of sentence 6: 100.000000
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - TP = 4, FP = 1, FN = 0
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - F1 score of sentence 7: 88.888889
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - TP = 9, FP = 1, FN = 0
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - F1 score of sentence 8: 94.736842
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - TP = 15, FP = 0, FN = 0
+2021-11-28 19:10:10,840 - iaa_evaluation - INFO - F1 score of sentence 9: 100.000000
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - TP = 8, FP = 0, FN = 3
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - F1 score of sentence 10: 84.210526
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - Inner annotator agreement of SET 4: 96.783626
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - Evaluating mapping & correct for SET 5...
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - TP = 19, FP = 0, FN = 0
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - F1 score of sentence 1: 100.000000
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - TP = 10, FP = 0, FN = 0
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - F1 score of sentence 2: 100.000000
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - TP = 16, FP = 4, FN = 2
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - F1 score of sentence 3: 84.210526
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - TP = 12, FP = 0, FN = 0
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - F1 score of sentence 4: 100.000000
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - TP = 20, FP = 0, FN = 0
+2021-11-28 19:10:10,841 - iaa_evaluation - INFO - F1 score of sentence 5: 100.000000
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - TP = 17, FP = 0, FN = 0
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - F1 score of sentence 6: 100.000000
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - TP = 10, FP = 0, FN = 0
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - F1 score of sentence 7: 100.000000
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - TP = 6, FP = 0, FN = 0
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - F1 score of sentence 8: 100.000000
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - TP = 7, FP = 0, FN = 0
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - F1 score of sentence 9: 100.000000
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - TP = 20, FP = 0, FN = 2
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - F1 score of sentence 10: 95.238095
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - Inner annotator agreement of SET 5: 97.944862
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - Evaluating mapping & correct for SET 6...
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - TP = 37, FP = 0, FN = 0
+2021-11-28 19:10:10,842 - iaa_evaluation - INFO - F1 score of sentence 1: 100.000000
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - TP = 44, FP = 0, FN = 0
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - F1 score of sentence 2: 100.000000
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - TP = 6, FP = 0, FN = 0
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - F1 score of sentence 3: 100.000000
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - TP = 17, FP = 6, FN = 0
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - F1 score of sentence 4: 85.000000
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - TP = 25, FP = 0, FN = 0
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - F1 score of sentence 5: 100.000000
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - TP = 5, FP = 1, FN = 0
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - F1 score of sentence 6: 90.909091
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - TP = 4, FP = 1, FN = 0
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - F1 score of sentence 7: 88.888889
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - TP = 28, FP = 4, FN = 0
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - F1 score of sentence 8: 93.333333
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - TP = 31, FP = 1, FN = 0
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - F1 score of sentence 9: 98.412698
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - TP = 34, FP = 0, FN = 2
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - F1 score of sentence 10: 97.142857
+2021-11-28 19:10:10,843 - iaa_evaluation - INFO - Inner annotator agreement of SET 6: 95.368687

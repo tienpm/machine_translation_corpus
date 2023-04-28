@@ -1,0 +1,100 @@
+[rachel] [pike] [the] [science] [behind] [a] [climate] [headline] 
+
+[in] [4] [minutes] [atmospheric] [chemist] [rachel] [pike] [provides] [a] [glimpse] [of] [the] [massive] [scientific] [effort] [behind] [the] [bold] [headlines] [on] [climate] [change] [with] [her] [team] [one] [of] [thousands] [who] [contributed] [taking] [a] [risky] [flight] [over] [the] [rainforest] [in] [pursuit] [of] [data] [on] [a] [key] [molecule] 
+
+[i] [would] [like] [to] [talk] [to] [you] [today] [about] [the] [scale] [of] [the] [scientific] [effort] [that] [goes] [into] [making] [the] [headlines] [you] [see] [in] [the] [paper] 
+
+[headlines] [that] [look] [like] [this] [when] [they] [have] [to] [do] [with] [climate] [change] [and] [headlines] [that] [look] [like] [this] [when] [they] [have] [to] [do] [with] [air] [quality] [or] [smog] 
+
+[they] [are] [both] [two] [branches] [of] [the] [same] [field] [of] [atmospheric] [science] 
+
+[recently] [the] [headlines] [looked] [like] [this] [when] [the] [intergovernmental] [panel] [on] [climate] [change] [or] [ipcc] [put] [out] [their] [report] [on] [the] [state] [of] [understanding] [of] [the] [atmospheric] [system] 
+
+[that] [report] [was] [written] [by] [620] [scientists] [from] [40] [countries] 
+
+[they] [wrote] [almost] [a] [thousand] [pages] [on] [the] [topic] 
+
+[all] [of] [those] [pages] [were] [reviewed] [by] [another] [400] [plus] [scientists] [and] [reviewers] [from] [113] [countries] 
+
+[it] [is] [such] [big] [community] [that] [our] [annual] [gathering] [is] [the] [largest] [scientific] [meeting] [in] [the] [world] 
+
+[over] [15000] [scientists] [go] [to] [san] [francisco] [every] [year] [for] [that] 
+
+[every] [one] [of] [those] [scientists] [is] [in] [a] [research] [group] [and] [every] [research] [group] [studies] [a] [wide] [variety] [of] [topics] 
+
+[for] [us] [at] [cambridge] [it] [aposs] [as] [varied] [as] [the] [elniño] [oscillation] [which] [affects] [weather] [and] [climate] [to] [the] [assimilation] [of] [satellite] [data] [to] [emissions] [from] [crops] [that] [produce] [biofuels] [which] [is] [what] [i] [happen] [to] [study] 
+
+[in] [each] [one] [of] [these] [research] [areas] [of] [which] [there] [are] [even] [more] [there] [are] [phd] [students] [like] [me] [and] [we] [study] [incredibly] [narrow] [topics] [things] [as] [narrow] [as] [a] [few] [processes] [or] [a] [few] [molecules] 
+
+[one] [of] [the] [molecules] [I] [study] [is] [called] [isoprene] [which] [is] [a] [small] [organic] [molecule] [you] [probably] [never] [heard] [of] [it] 
+
+[the] [weight] [of] [a] [paper] [clip] [is] [approximately] [equal] [to] [900] [to] [10] [caps] [21st] [molecules] [of] [isoprene] 
+
+[but] [despite] [its] [very] [small] [weight] [enough] [of] [it] [is] [emitted] [into] [the] [atmosphere] [every] [year] [to] [equal] [the] [weight] [of] [all] [the] [people] [on] [the] [planet] 
+
+[it] [is] [a] [huge] [amount] [of] [stuff] [it] [is] [equal] [to] [the] [weight] [of] [methane] 
+
+[because] [it] [aposs] [so] [much] [stuff] [it] [is] [really] [important] [for] [the] [atmospheric] [system] 
+
+[because] [it] [is] [important] [to] [the] [atmospheric] [system] [we] [go] [to] [all] [lengths] [to] [study] [this] [thing] 
+
+[we] [blow] [it] [up] [and] [look] [at] [the] [pieces] 
+
+[this] [is] [the] [euphore] [smog] [chamber] [in] [spain] 
+
+[atmospheric] [explosions] [or] [full] [combustion] [takes] [about] [15000] [times] [longer] [than] [what] [happens] [in] [your] [car] 
+
+[but] [we] [still] [look] [at] [the] [pieces] 
+
+[we] [run] [enormous] [models] [on] [supercomputers] [this] [is] [what] [i] [happen] [to] [do] 
+
+[our] [models] [have] [hundreds] [of] [thousands] [of] [grid] [boxes] [calculating] [hundreds] [of] [variables] [each] [on] [minute] [timescales] 
+
+[and] [it] [takes] [weeks] [to] [perform] [our] [integrations] 
+
+[and] [we] [perform] [dozens] [of] [integrations] [in] [order] [to] [understand] [what] [aposs] [happening] 
+
+[we] [also] [fly] [all] [over] [the] [world] [looking] [for] [this] [thing] 
+
+[i] [recently] [joined] [a] [field] [campaign] [in] [Malaysia] [there] [are] [others] 
+
+[we] [found] [a] [global] [atmospheric] [watchtower] [there] [in] [the] [middle] [of] [the] [rainforest] [and] [hung] [hundreds] [of] [thousands] [of] [dollars] [worth] [of] [scientific] [equipment] [off] [this] [tower] [to] [look] [for] [isoprene] [and] [of] [course] [other] [things] [while] [we] [were] [there] 
+
+[this] [is] [the] [tower] [in] [the] [middle] [of] [the] [rainforest] [from] [above] 
+
+[and] [this] [is] [the] [tower] [from] [below] 
+
+[on] [part] [of] [that] [field] [campaign] [we] [even] [brought] [an] [aircraft] [with] [us] 
+
+[and] [this] [plane] [the] [model] [ba146] [which] [was] [run] [by] [faam] [normally] [flies] [120] [to] [130] [people] 
+
+[so] [maybe] [you] [took] [a] [similar] [aircraft] [to] [get] [here] [today] 
+
+[but] [we] [did] [not ] [just] [fly] [it] [we] [were] [flying] [at] [100] [meters] [above] [the] [top] [of] [the] [canopy] [to] [measure] [this] [molecule] [incredibly] [dangerous] [stuff] 
+
+[we] [have] [to] [fly] [at] [a] [special] [incline] [in] [order] [to] [make] [the] [measurements] 
+
+[we] [hire] [military] [and] [test] [pilots] [to] [do] [the] [maneuvering] 
+
+[we] [have] [to] [get] [special] [flight] [clearance] 
+
+[and] [as] [you] [come] [around] [the] [banks] [in] [these] [valleys] [the] [forces] [can] [get] [up] [to] [two] [gs] 
+
+[and] [the] [scientists] [have] [to] [be] [completely] [harnessed] [in] [in] [order] [to] [make] [measurements] [while] [they] [are] [on] [board] 
+
+[so] [as] [you] [can] [imagine] [the] [inside] [of] [this] [aircraft] [does] [not] [look] [like] [any] [plane] [you] [would] [take] [on] [vacation] 
+
+[it] [is] [a] [flying] [laboratory] [that] [we] [took] [to] [make] [measurements] [in] [the] [region] [of] [this] [molecule] 
+
+[we] [do] [all] [of] [this] [to] [understand] [the] [chemistry] [of] [one] [molecule] 
+
+[and] [when] [one] [student] [like] [me] [has] [some] [sort] [of] [inclination] [or] [understanding] [about] [that] [molecule] [they] [write] [one] [scientific] [paper] [on] [the] [subject] 
+
+[and] [out] [of] [that] [field] [campaign] [we] [aposll] [probably] [get] [a] [few] [dozen] [papers] [on] [a] [few] [dozen] [processes] [or] [molecules] 
+
+[and] [as] [a] [body] [of] [knowledge] [builds] [up] [it] [will] [form] [one] [subsection] [or] [one] [subsubsection] [of] [an] [assessment] [like] [the] [ipcc] [although] [we] [have] [others] 
+
+[and] [each] [one] [of] [the] [11] [chapters] [of] [the] [ipcc] [has] [six] [to] [ten] [subsections] 
+
+[so] [you] [can] [imagine] [the] [scale] [of] [the] [effort] 
+

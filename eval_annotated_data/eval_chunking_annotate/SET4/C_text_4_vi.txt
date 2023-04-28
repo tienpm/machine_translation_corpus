@@ -1,0 +1,10 @@
+(Tuần này)/NP (chúng tôi)/NP (kết thúc)/VP (câu chuyện)/NP (về)/PP (nhà văn)/NP (kiêm)/VP (nhà giáo dục)/NP , (Helen Keller)/NP .
+(Cô ấy)/NP (đã giúp đỡ)/VP (hàng triệu người)/NP , (giống)/AP (cô ấy)/NP , (vừa bị)/VP (mù)/AP và (điếc)/AP .
+(Chúng tôi)/NP (đã bàn)/VP (hồi tuần trước)/NP , (Helen Keller)/NP (mắc)/VP (một căn bệnh)/NP (lạ)/AP (khi)/PP (cô ấy)/NP (mới 19 tháng tuổi)/NP .
+(Nó)/NP (khiến)/VP (cô)/NP (bị)/VP (mù)/AP và (điếc hoàn toàn)/AP .
+(Năm năm)/NP (sau đó)/PP (cô ấy)/NP (không thể nào giao tiếp)/VP (với)/PP (người khác)/NP .
+(Sau đó)/PP , (một giáo viên)/NP - (Anne Sullivan)/NP - (đến)/VP (từ)/PP (Boston)/NP (đã giúp)/VP (cô ấy)/NP .
+(Cô Sullivan)/NP (cũng từng bị)/VP (mù)/AP .
+(Cô ấy)/NP (cố dạy)/VP (Helen)/NP (cách sống)/NP (như)/PP (người)/NP (bình thường)/AP .
+(Cô ấy)/NP (dạy)/VP (cô bé)/NP (sử dụng)/VP (bàn tay cô ấy)/NP (như)/PP (một cách)/NP (để)/PP (nói)/VP .
+(Cô Sullivan)/NP (dẫn)/VP (Helen)/NP (vào)/VP (rừng)/NP (để)/PP (tìm hiểu)/VP (thiên nhiên)/NP .

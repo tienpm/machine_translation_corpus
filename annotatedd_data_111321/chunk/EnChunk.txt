@@ -1,0 +1,863 @@
+(S
+  (NP rachel/NN)
+  pike/IN
+  (NP the/DT science/NN)
+  behind/IN
+  (NP a/DT climate/NN)
+  (NP headline/NN))
+
+(S
+  in/IN
+  4/CD
+  minutes/NNS
+  (NP atmospheric/JJ chemist/NN)
+  (NP rachel/NN)
+  (NP pike/NN)
+  provides/VBZ
+  (NP a/DT glimpse/NN)
+  of/IN
+  (NP the/DT massive/JJ scientific/JJ effort/NN)
+  behind/IN
+  the/DT
+  bold/JJ
+  headlines/NNS
+  on/IN
+  (NP climate/NN)
+  (NP change/NN)
+  with/IN
+  her/PRP$
+  (NP team/NN)
+  one/CD
+  of/IN
+  thousands/NNS
+  who/WP
+  contributed/VBD
+  taking/VBG
+  (NP a/DT risky/JJ flight/NN)
+  over/IN
+  (NP the/DT rainforest/NN)
+  in/IN
+  (NP pursuit/NN)
+  of/IN
+  data/NNS
+  on/IN
+  (NP a/DT key/JJ molecule/NN))
+
+(S
+  i/JJ
+  aposd/VBP
+  like/IN
+  to/TO
+  talk/VB
+  to/TO
+  you/PRP
+  (NP today/NN)
+  about/IN
+  (NP the/DT scale/NN)
+  of/IN
+  (NP the/DT scientific/JJ effort/NN)
+  that/WDT
+  goes/VBZ
+  into/IN
+  making/VBG
+  the/DT
+  headlines/NNS
+  you/PRP
+  see/VBP
+  in/IN
+  (NP the/DT paper/NN))
+
+(S
+  headlines/NNS
+  that/WDT
+  look/VBP
+  like/IN
+  this/DT
+  when/WRB
+  they/PRP
+  have/VBP
+  to/TO
+  do/VB
+  with/IN
+  (NP climate/NN)
+  (NP change/NN)
+  and/CC
+  headlines/NNS
+  that/WDT
+  look/VBP
+  like/IN
+  this/DT
+  when/WRB
+  they/PRP
+  have/VBP
+  to/TO
+  do/VB
+  with/IN
+  (NP air/NN)
+  (NP quality/NN)
+  or/CC
+  (NP smog/NN))
+
+(S
+  they/PRP
+  are/VBP
+  both/DT
+  two/CD
+  branches/NNS
+  of/IN
+  (NP the/DT same/JJ field/NN)
+  of/IN
+  (NP atmospheric/JJ science/NN))
+
+(S
+  recently/RB
+  the/DT
+  headlines/NNS
+  looked/VBD
+  like/IN
+  this/DT
+  when/WRB
+  (NP the/DT intergovernmental/JJ panel/NN)
+  on/IN
+  (NP climate/NN)
+  (NP change/NN)
+  or/CC
+  (NP ipcc/NN)
+  put/VBN
+  out/RP
+  their/PRP$
+  (NP report/NN)
+  on/IN
+  (NP the/DT state/NN)
+  of/IN
+  (NP understanding/NN)
+  of/IN
+  (NP the/DT atmospheric/JJ system/NN))
+
+(S
+  (NP that/DT report/NN)
+  was/VBD
+  written/VBN
+  by/IN
+  620/CD
+  scientists/NNS
+  from/IN
+  40/CD
+  countries/NNS)
+
+(S
+  they/PRP
+  wrote/VBD
+  almost/RB
+  (NP a/DT thousand/NN)
+  pages/NNS
+  on/IN
+  (NP the/DT topic/NN))
+
+(S
+  and/CC
+  all/DT
+  of/IN
+  those/DT
+  pages/NNS
+  were/VBD
+  reviewed/VBN
+  by/IN
+  another/DT
+  400plus/CD
+  scientists/NNS
+  and/CC
+  reviewers/NNS
+  from/IN
+  113/CD
+  countries/NNS)
+
+(S
+  it/PRP
+  aposs/VBZ
+  (NP a/DT big/JJ community/NN)
+  it/PRP
+  aposs/IN
+  such/PDT
+  (NP a/DT big/JJ community/NN)
+  in/IN
+  (NP fact/NN)
+  that/IN
+  our/PRP$
+  (NP annual/JJ gathering/NN)
+  is/VBZ
+  the/DT
+  largest/JJS
+  (NP scientific/JJ meeting/NN)
+  in/IN
+  (NP the/DT world/NN))
+
+(S
+  over/IN
+  15000/CD
+  scientists/NNS
+  go/VBP
+  to/TO
+  san/VB
+  (NP francisco/NN)
+  (NP every/DT year/NN)
+  for/IN
+  that/DT)
+
+(S
+  and/CC
+  every/DT
+  one/CD
+  of/IN
+  those/DT
+  scientists/NNS
+  is/VBZ
+  in/IN
+  (NP a/DT research/NN)
+  (NP group/NN)
+  and/CC
+  (NP every/DT research/NN)
+  (NP group/NN)
+  studies/NNS
+  (NP a/DT wide/JJ variety/NN)
+  of/IN
+  topics/NNS)
+
+(S
+  for/IN
+  us/PRP
+  at/IN
+  (NP cambridge/NN)
+  it/PRP
+  aposs/IN
+  as/RB
+  varied/VBN
+  as/IN
+  (NP the/DT el/NN)
+  (NP niño/NN)
+  (NP oscillation/NN)
+  which/WDT
+  affects/VBZ
+  (NP weather/NN)
+  and/CC
+  (NP climate/NN)
+  to/TO
+  (NP the/DT assimilation/NN)
+  of/IN
+  (NP satellite/NN)
+  data/NNS
+  to/TO
+  emissions/NNS
+  from/IN
+  crops/NNS
+  that/WDT
+  produce/VBP
+  biofuels/NNS
+  which/WDT
+  is/VBZ
+  what/WP
+  i/JJ
+  happen/VBP
+  to/TO
+  study/VB)
+
+(S
+  and/CC
+  in/IN
+  each/DT
+  one/CD
+  of/IN
+  (NP these/DT research/NN)
+  areas/NNS
+  of/IN
+  which/WDT
+  there/EX
+  are/VBP
+  even/RB
+  more/RBR
+  there/EX
+  are/VBP
+  phd/JJ
+  students/NNS
+  like/IN
+  me/PRP
+  and/CC
+  we/PRP
+  study/VBP
+  incredibly/RB
+  narrow/JJ
+  topics/NNS
+  things/NNS
+  as/RB
+  narrow/JJ
+  as/IN
+  a/DT
+  few/JJ
+  processes/NNS
+  or/CC
+  a/DT
+  few/JJ
+  molecules/NNS)
+
+(S
+  and/CC
+  one/CD
+  of/IN
+  the/DT
+  molecules/NNS
+  i/VBP
+  (NP study/NN)
+  is/VBZ
+  called/VBN
+  (NP isoprene/NN)
+  which/WDT
+  is/VBZ
+  here/RB
+  it/PRP
+  aposs/IN
+  (NP a/DT small/JJ organic/JJ molecule/NN)
+  you/PRP
+  aposve/VBP
+  probably/RB
+  never/RB
+  (NP heard/NN)
+  of/IN
+  it/PRP)
+
+(S
+  (NP the/DT weight/NN)
+  of/IN
+  (NP a/DT paper/NN)
+  (NP clip/NN)
+  is/VBZ
+  approximately/RB
+  equal/JJ
+  to/TO
+  900/CD
+  (NP zetaillion/NN)
+  10/CD
+  to/TO
+  the/DT
+  21st/CD
+  molecules/NNS
+  of/IN
+  (NP isoprene/NN))
+
+(S
+  but/CC
+  despite/IN
+  its/PRP$
+  very/RB
+  small/JJ
+  weight/VBD
+  enough/RB
+  of/IN
+  it/PRP
+  is/VBZ
+  emitted/VBN
+  into/IN
+  (NP the/DT atmosphere/NN)
+  (NP every/DT year/NN)
+  to/TO
+  equal/VB
+  (NP the/DT weight/NN)
+  of/IN
+  all/PDT
+  the/DT
+  people/NNS
+  on/IN
+  (NP the/DT planet/NN))
+
+(S
+  it/PRP
+  aposs/VBZ
+  (NP a/DT huge/JJ amount/NN)
+  of/IN
+  (NP stuff/NN)
+  it/PRP
+  aposs/VBZ
+  equal/JJ
+  to/TO
+  (NP the/DT weight/NN)
+  of/IN
+  (NP methane/NN))
+
+(S
+  and/CC
+  because/IN
+  it/PRP
+  aposs/VBZ
+  so/RB
+  (NP much/JJ stuff/NN)
+  it/PRP
+  aposs/VBZ
+  really/RB
+  important/JJ
+  for/IN
+  (NP the/DT atmospheric/JJ system/NN))
+
+(S
+  because/IN
+  it/PRP
+  aposs/VBZ
+  important/JJ
+  to/TO
+  (NP the/DT atmospheric/JJ system/NN)
+  we/PRP
+  go/VBP
+  to/TO
+  all/DT
+  lengths/NNS
+  to/TO
+  study/VB
+  (NP this/DT thing/NN))
+
+(S
+  we/PRP
+  blow/VBP
+  it/PRP
+  up/RP
+  and/CC
+  look/VB
+  at/IN
+  the/DT
+  pieces/NNS)
+
+(S
+  this/DT
+  is/VBZ
+  (NP the/DT euphore/NN)
+  (NP smog/JJ chamber/NN)
+  in/IN
+  (NP spain/NN))
+
+(S
+  atmospheric/JJ
+  explosions/NNS
+  or/CC
+  (NP full/JJ combustion/NN)
+  takes/VBZ
+  about/IN
+  15000/CD
+  times/NNS
+  longer/JJR
+  than/IN
+  what/WP
+  happens/VBZ
+  in/IN
+  your/PRP$
+  (NP car/NN))
+
+(S but/CC still/RB we/PRP look/VBP at/IN the/DT pieces/NNS)
+
+(S
+  we/PRP
+  run/VBP
+  enormous/JJ
+  models/NNS
+  on/IN
+  supercomputers/NNS
+  this/DT
+  is/VBZ
+  what/WP
+  i/JJ
+  happen/VBP
+  to/TO
+  do/VB)
+
+(S
+  our/PRP$
+  models/NNS
+  have/VBP
+  hundreds/NNS
+  of/IN
+  thousands/NNS
+  of/IN
+  grid/JJ
+  boxes/NNS
+  calculating/VBG
+  hundreds/NNS
+  of/IN
+  variables/NNS
+  each/DT
+  on/IN
+  (NP minute/NN)
+  timescales/NNS)
+
+(S
+  and/CC
+  it/PRP
+  takes/VBZ
+  weeks/NNS
+  to/TO
+  perform/VB
+  our/PRP$
+  integrations/NNS)
+
+(S
+  and/CC
+  we/PRP
+  perform/VBP
+  dozens/NNS
+  of/IN
+  integrations/NNS
+  in/IN
+  (NP order/NN)
+  to/TO
+  understand/VB
+  what/WP
+  aposs/IN
+  happening/VBG)
+
+(S
+  we/PRP
+  also/RB
+  fly/VBP
+  all/DT
+  over/IN
+  (NP the/DT world/NN)
+  looking/VBG
+  for/IN
+  (NP this/DT thing/NN))
+
+(S
+  (NP i/NN)
+  recently/RB
+  joined/VBD
+  (NP a/DT field/NN)
+  (NP campaign/NN)
+  in/IN
+  (NP malaysia/NN)
+  there/EX
+  are/VBP
+  others/NNS)
+
+(S
+  we/PRP
+  found/VBD
+  (NP a/DT global/JJ atmospheric/JJ watchtower/NN)
+  there/EX
+  in/IN
+  (NP the/DT middle/NN)
+  of/IN
+  (NP the/DT rainforest/NN)
+  and/CC
+  (NP hung/NN)
+  hundreds/NNS
+  of/IN
+  thousands/NNS
+  of/IN
+  dollars/NNS
+  worth/IN
+  of/IN
+  (NP scientific/JJ equipment/NN)
+  off/IN
+  (NP this/DT tower/NN)
+  to/TO
+  look/VB
+  for/IN
+  (NP isoprene/NN)
+  and/CC
+  of/IN
+  (NP course/NN)
+  other/JJ
+  things/NNS
+  while/IN
+  we/PRP
+  were/VBD
+  there/EX)
+
+(S
+  this/DT
+  is/VBZ
+  (NP the/DT tower/NN)
+  in/IN
+  (NP the/DT middle/NN)
+  of/IN
+  (NP the/DT rainforest/NN)
+  from/IN
+  above/IN)
+
+(S and/CC this/DT is/VBZ (NP the/DT tower/NN) from/IN below/IN)
+
+(S
+  and/CC
+  on/IN
+  (NP part/NN)
+  of/IN
+  (NP that/DT field/NN)
+  (NP campaign/NN)
+  we/PRP
+  even/RB
+  brought/VBD
+  (NP an/DT aircraft/NN)
+  with/IN
+  us/PRP)
+
+(S
+  and/CC
+  (NP this/DT plane/NN)
+  (NP the/DT model/NN)
+  (NP ba146/NN)
+  which/WDT
+  was/VBD
+  run/VBN
+  by/IN
+  (NP faam/NN)
+  normally/RB
+  flies/VBZ
+  120/CD
+  to/TO
+  130/CD
+  people/NNS)
+
+(S
+  so/RB
+  maybe/RB
+  you/PRP
+  took/VBD
+  (NP a/DT similar/JJ aircraft/NN)
+  to/TO
+  get/VB
+  here/RB
+  (NP today/NN))
+
+(S
+  but/CC
+  we/PRP
+  didn/VBP
+  apost/RB
+  just/RB
+  fly/VB
+  it/PRP
+  we/PRP
+  were/VBD
+  flying/VBG
+  at/IN
+  100/CD
+  meters/NNS
+  above/IN
+  (NP the/DT top/NN)
+  of/IN
+  (NP the/DT canopy/NN)
+  to/TO
+  measure/VB
+  (NP this/DT molecule/NN)
+  incredibly/RB
+  (NP dangerous/JJ stuff/NN))
+
+(S
+  we/PRP
+  have/VBP
+  to/TO
+  fly/VB
+  at/IN
+  (NP a/DT special/JJ incline/NN)
+  in/IN
+  (NP order/NN)
+  to/TO
+  make/VB
+  the/DT
+  measurements/NNS)
+
+(S
+  we/PRP
+  hire/VBP
+  military/JJ
+  and/CC
+  test/JJ
+  pilots/NNS
+  to/TO
+  do/VB
+  (NP the/DT maneuvering/NN))
+
+(S
+  we/PRP
+  have/VBP
+  to/TO
+  get/VB
+  (NP special/JJ flight/NN)
+  (NP clearance/NN))
+
+(S
+  and/CC
+  as/IN
+  you/PRP
+  come/VBP
+  around/IN
+  the/DT
+  banks/NNS
+  in/IN
+  these/DT
+  valleys/NNS
+  the/DT
+  forces/NNS
+  can/MD
+  get/VB
+  up/RB
+  to/TO
+  two/CD
+  gs/NNS)
+
+(S
+  and/CC
+  the/DT
+  scientists/NNS
+  have/VBP
+  to/TO
+  be/VB
+  completely/RB
+  harnessed/VBN
+  in/IN
+  in/IN
+  (NP order/NN)
+  to/TO
+  make/VB
+  measurements/NNS
+  while/IN
+  they/PRP
+  aposre/VBP
+  on/IN
+  (NP board/NN))
+
+(S
+  so/RB
+  as/IN
+  you/PRP
+  can/MD
+  imagine/VB
+  (NP the/DT inside/NN)
+  of/IN
+  (NP this/DT aircraft/NN)
+  doesn/VBZ
+  apost/JJ
+  look/NNS
+  like/IN
+  (NP any/DT plane/NN)
+  you/PRP
+  would/MD
+  take/VB
+  on/IN
+  (NP vacation/NN))
+
+(S
+  it/PRP
+  aposs/VBZ
+  a/DT
+  flying/VBG
+  (NP laboratory/NN)
+  that/IN
+  we/PRP
+  took/VBD
+  to/TO
+  make/VB
+  measurements/NNS
+  in/IN
+  (NP the/DT region/NN)
+  of/IN
+  (NP this/DT molecule/NN))
+
+(S
+  we/PRP
+  do/VBP
+  all/DT
+  of/IN
+  this/DT
+  to/TO
+  understand/VB
+  (NP the/DT chemistry/NN)
+  of/IN
+  one/CD
+  (NP molecule/NN))
+
+(S
+  and/CC
+  when/WRB
+  one/CD
+  (NP student/NN)
+  like/IN
+  me/PRP
+  has/VBZ
+  (NP some/DT sort/NN)
+  of/IN
+  (NP inclination/NN)
+  or/CC
+  understanding/VBG
+  about/IN
+  (NP that/DT molecule/NN)
+  they/PRP
+  write/VBP
+  one/CD
+  (NP scientific/JJ paper/NN)
+  on/IN
+  (NP the/DT subject/NN))
+
+(S
+  and/CC
+  out/IN
+  of/IN
+  (NP that/DT field/NN)
+  (NP campaign/NN)
+  we/PRP
+  aposll/VBP
+  probably/RB
+  get/VB
+  (NP a/DT few/JJ dozen/NN)
+  papers/NNS
+  on/IN
+  (NP a/DT few/JJ dozen/NN)
+  processes/NNS
+  or/CC
+  molecules/NNS)
+
+(S
+  and/CC
+  as/IN
+  (NP a/DT body/NN)
+  of/IN
+  (NP knowledge/NN)
+  builds/VBZ
+  up/IN
+  it/PRP
+  will/MD
+  form/VB
+  one/CD
+  (NP subsection/NN)
+  or/CC
+  one/CD
+  (NP subsubsection/NN)
+  of/IN
+  (NP an/DT assessment/NN)
+  like/IN
+  the/DT
+  ipcc/JJ
+  although/IN
+  we/PRP
+  have/VBP
+  others/NNS)
+
+(S
+  and/CC
+  each/DT
+  one/CD
+  of/IN
+  the/DT
+  11/CD
+  chapters/NNS
+  of/IN
+  (NP the/DT ipcc/NN)
+  has/VBZ
+  six/CD
+  to/TO
+  ten/VB
+  subsections/NNS)
+
+(S
+  so/IN
+  you/PRP
+  can/MD
+  imagine/VB
+  (NP the/DT scale/NN)
+  of/IN
+  (NP the/DT effort/NN))
+

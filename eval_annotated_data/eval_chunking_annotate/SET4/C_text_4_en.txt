@@ -1,0 +1,10 @@
+(This week)/NP (we)/NP (finish)/VP (the story)/NP (of)/PP (a writer)/NP and (educator)/NP , (Helen Keller)/NP .
+(She)/NP (helped)/VP (millions)/NP (of)/PP (people who)/NP , (like)/PP (her)/NP , (were)/VP (blind)/ADJP and (deaf)/ADJP .
+(We)/NP (reported)/VP (last week)/NP (that)/SBAR (Helen Keller)/NP (suffered)/VP (from)/PP (a strange sickness)/NP (when)/SBAR (she)/NP (was)/VP (only nineteen months old)/NP .
+(It)/NP (made)/VP (her)/NP (completely blind)/ADJP and (deaf)/ADJP .
+(For)/PP (the next five years)/NP (she)/NP (had)/VP (no way)/NP (of)/PP (successfully communicating)/VP (with)/PP (other people)/NP .
+(Then)/ADVP, (a teacher)/NP - (Anne Sullivan)/NP - (arrived)/VP (from)/PP (Boston)/NP (to help)/VP (her)/NP .
+(Miss Sullivan)/NP (herself)/NP (had once been)/VP (blind)/ADJP .
+(She)/NP (tried to teach)/VP (Helen)/NP (to live)/VP (like)/PP (other people)/NP .
+(She)/NP (taught)/VP (her)/NP (how)/ADVP (to use)/VP (her hands)/NP (as)/PP (a way)/NP (of)/PP (speaking)/VP .
+(Miss Sullivan)/NP (took)/VP (Helen)/NP (out)/PP (into)/PP (the woods)/NP (to explore)/VP (nature)/NP .

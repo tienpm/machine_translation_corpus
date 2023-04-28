@@ -1,0 +1,10 @@
+(Fenqing)/NP (is)/VP (a Chinese word)/NP (which)/SBAR (literally means)/VP (" angry youth ")/NP .
+(This word)/NP (has)/VP (many translations)/NP (in)/PP (English)/NP (such as)/PP (cynical youth)/NP , (young nationalists)/NP , (hysterical youth)/NP and (angry young men)/NP .
+(I)/NP (personally like)/VP to (call)/VP (them)/NP (mob youth)/NP or (ignorant angry youth)/NP .
+(It)/NP (is)/VP (impossible)/ADJP to (understand)/VP (China)/NP (without knowing)/VP (what)/SBAR (Fenqing)/NP (is)/VP and (what)/SBAR (role)/NP (they)/NP (play)/VP (in)/PP (the society)/NP (in)/PP (today 's China)/NP .
+(I)/NP (will try)/VP to (paint)/VP (a portrait)/NP (of)/PP (a Fenqing)/NP (in)/PP (this post)/NP .
+(Fenqing)/NP (is)/VP (someone)/NP (who)/SBAR (is)/VP (usually)/ADVP (below)/PP (twenty years)/NP (of)/PP (age)/NP , (though)/SBAR (sometimes)/ADJP (people)/NP (who)/SBAR (are)/VP (at)/PP (their twenties or older)/NP (can also be identified)/VP (as)/PP (Fenqing)/NP .
+(Though)/SBAR (you)/NP (can find)/VP (the majority)/NP (of)/PP (Fenqing)/NP (among)/PP (high school and college students)/NP, (age)/NP (is not)/VP (the most important feature)/NP .
+(What)/SBAR (really matters)/VP (is)/VP (their outlook)/NP (of)/PP (China)/NP and (the world)/NP .
+(The fact)/NP (that)/SBAR (most Fenqing)/NP (are)/VP (ignorant)/ADJP (of)/PP (many things)/NP (determines)/VP (their opinions)/NP and (views)/NP (of)/PP (the world)/NP and (China)/NP .
+(Fenqing)/NP (believe)/VP (these three things)/NP (are)/VP (basically)/ADVP (the same thing)/NP .

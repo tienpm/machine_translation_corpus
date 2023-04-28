@@ -1,0 +1,10 @@
+(Cái tên Helen Keller)/NP (có)/VP (một ý nghĩa)/NP (đặc biệt)/AP (đối với)/PP (hàng triệu người)/NP (khắp nơi)/NP (trên)/PP (thế giới)/NP .
+(Cô ấy)/NP (không thể nhìn)/VP (cũng như)/PP (nghe)/VP .
+Tuy nhiên (Helen Keller)/NP (đã có thể làm được)/VP (rất nhiều việc)/NP (ngày này)/NP (qua)/PP (năm nọ)/NP (của)/PP (mình)/NP .
+(Thành công)/NP (của)/PP (cô ấy)/NP (đã mang lại)/VP (hy vọng)/NP (cho)/PP (người khác)/NP .
+(Helen Keller)/NP (sinh ra)/VP (ngày 22 tháng 6 , năm 1880)/NP (tại)/PP (một thành phố nhỏ miền bắc Alabama)/NP .
+(Cha cô ấy)/NP , (Arthur Keller)/NP , (là)/NP (đại uý quân đội miền Nam)/NP (trong)/PP (cuộc nội chiến Mỹ)/NP .
+(Mẹ)/NP (của)/PP (cô ấy)/NP (là)/VP (vợ hai)/NP (của)/PP (ông ấy)/NP .
+(Bà)/NP (trẻ hơn)/AP (chồng)/NP (rất nhiều)/AP .
+(Helen)/NP (là)/VP (con đầu lòng)/NP (của)/PP (họ)/NP .
+(Cho đến)/PP (năm cô ấy)/NP (được)/VP (một tuổi rưỡi)/NP , (Helen Keller)/NP (giống như)/AP (mọi đứa trẻ khác)/NP .

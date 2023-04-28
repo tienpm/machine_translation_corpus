@@ -1,0 +1,12 @@
+Trước khi gán nhãn:
+[i] [would] [like] [to] [talk] [to] [you] [today] [about] [the] [scale] [of] [the] [scientific] [effort] [that] [goes] [into] [making] [the] [headlines] [you] [see] [in] [the] [paper]
+Sau khi gán nhãn:
+[i]NP [would like to talk]VP [to]PP [you]NP [today] [about]PP [the scale of the scientific effort]NP [that]PP [goes into making]VP [the headlines]NP  [you]NP [see]VP [in the paper]NP
+
+
+Tiếng việt:
+Trước khi gán nhãn:
+[tôi] [muốn] [cho] [các] [bạn] [biết] [về] [sự] [to lớn] [của] [những] [nỗ lực] [khoa học] [đã] [góp phần] [làm nên] [các] [dòng] [tít] [bạn] [thường] [thấy] [trên] [báo]
+
+Sau khi gán nhãn:
+[tôi]NP [muốn cho]VP  [các bạn]NP  [biết]VP [về]PP [sự to lớn]NP [của]PP [ nỗ lực khoa học]NP [đã] [góp phần làm nên]VP [các dòng tít]NP [bạn]NP [thường thấy]VP [trên]PP [báo]NP
