@@ -1,0 +1,100 @@
+[rachel pike]NP [the science]NP [behind]IN [a climate headline]NP 
+
+[in]PPIN [4 minutes]NP [atmospheric chemist]NP [rachel pike]NP [provides]VP [a glimpse of the massive scientific effort]NP [behind]PP [the bold headlines]NP [on]PPPP [climate change]NP [with]PP [her team]NP [one of thousands]NP [who]ADVP [contributed taking]VP [a risky flight]NP [over]PP [the rainforest]NP [in]PP [pursuit]NP [of]PP [data]NP [on]PP [a key molecule]NP 
+
+[i]NP [would like to talk]VP [to]PP [you]NP [today] [about]PP [the scale of the scientific effort]NP [that]PP [goes into making]VP [the headlines]NP  [you]NP [see]VP [in the paper]NP 
+
+[headlines]NP [that]PP [look like]VP [this]NP [when]ADVP [they]NP [have to do with]VP [climate change]NP [and] [headlines]NP [that]PP [look]VP [like]IN [this]NP [when]ADVP [they]NP [have to do with]VP [air quality]NP [or]PP [smoke]NP
+
+[they]NP [are]VP [both]PP [two branches of the same field]NP [of]PP [atmospheric science]NP 
+
+[recently]ADVP [the headlines]NP [looked like]VP [this]NP [when]ADVP [the intergovernmental panel  on  climate change]NP [or]PP [ipcc]NP [put out]VP [their report on the state of understanding of the atmospheric system]NP 
+
+[that report]NP [was written]VP [by]PP [620 scientists]NP [from]PP [40 countries]NP 
+
+[they]NP [wrote]VP [almost]PP [a thousand pages]NP [on]PP [the topic]NP 
+
+[and]PP [all of those pages]NP [were reviewed]VP [by]PP [another 400 scientists]NP [and] [reviewers from 113 countries]NP
+
+[it]NP [is]VPVP [such]PP [a big community]NP [in]PP [fact]NP [that]NP [our annual gathering]NP [is]VP [the largest scientific meeting]NP [in]PP [the world]NP
+
+[over 15000 scientists]NP [go]VP [to]PP [san francisco]NP [every year]ADVP [for]PP [that]NP 
+
+[and] [every one]NP [of]PP [those scientists]NP [is]VP [in]PP [a research group]NP [and] [every research group]NP [studies]VP [a wide variety]NP [of]PP [topics]NP 
+
+[for]PPSBAR [us]NP [at]PP [cambridge]NP [it]NP [has]VP [as]SBARPP [varied]ADJP [as]SBARPP [the el niño oscillation]NP [which]NP [affects]VP [weather]NP [and] [climate]NP [to]PP [the assimilation]NP [of]PP [satellite data]NP [to]PP [emissions]NP [from]PP [crops]VP [that]NP [produce]VP [biofuels]NP [which]NP [are]VP [what]NP [i]NP [happen to study]VP 
+
+[and] [in]PP [each one]NP [of]PP [these research areas]NP [of]PP [which]NP [there]NP [are]VP [even]ADJP [more]PP [there]NP [are]VP [phd students]NP [like]PP [me]NP [and] [we]NP [study]VP [incredibly narrow]ADJP [topics things]NP [as]SBARPP [narrow]ADJP [as]SBARPP [a few processes]NP [or]PP [a few molecules]NP 
+
+[and] [one]NP [of]PP [the molecules]NP [i]NP [study]VP [is called]VP [isoprene]NP [which]NP [is]VP [here]NP [it]NP [has]VP [a small organic molecule]NP [you]VP [probably]ADVP [never]ADJP [heard]VP [of]PP [it]NP 
+
+[the weight]NP [of]PP [a paper clip]NP [is]VP [approximately equal]ADJP [to]PP [900 zetaillion]NP [10]NP [to]PP [the 21st molecules]NP [of]PP [isoprene]NP
+
+[but]SBAR [despite] [its very small weight]NP [enough]ADJP [of]PP [it]NP [is emitted]VP [into]PP [the atmosphere]NP [every year]ADJP [to]PP [equal]ADJP [the weight]NP [of]PP [all the people]NP [on]PP [the planet]NP 
+
+[it]NP [has]VP [a huge amount]NP [of]PP [stuff]NP [it]NP [has]VP [equal]ADJP [to]PP [the weight]NP [of]PP [methane]NP 
+
+[and] [because it]NP [has]VP [so] [much] [stuff] [it]NP [is]VP [really] [important] [for]PP [the atmospheric system]NP 
+
+[because it]NP [is]VP [important]ADJP [to]PP [the atmospheric system]NP [we]NP [go]VP [to]PP [all lengths]NP [to]PP [study]VP [this thing]NP 
+
+[we]NP [blow] [it]NP [up]PP [and] [look] [at]PP [the pieces]NP 
+
+[this]NP [is]VP [the euphore smoke chamber]NP [in]PP [spain]NP 
+
+[atmospheric explosions]NP [or]PP [full combustion]NP [takes]VPVP [about]PP [15000 times]NP [longer than]ADJP [what]NP [happens]VP [in]PP [your car]NP 
+
+[but] [still]ADVP [we]NP [look at]VP [the pieces]NP 
+
+[we]NP [run]VP [enormous models]PP [on]PP [supercomputers]NP [this]NP [is]VP [what]NO [i]NP [happen to do]VP 
+
+[our models]NP [have]VP [hundreds]NP [of]PP [thousands]NP [of]PP [grid boxes]NP [calculating]VP [hundreds]NP [of]PP [variables]NP [each]NP [on]PP [minute timescales]NP 
+
+[and] [it]NP [takes]VP [weeks]NP [to]PP [perform]VP [our integrations]NP 
+
+[and] [we]NP [perform]NP [dozens]NP [of]PP [integrations] [in]PP [order]NP [to]PP [understand]VP [what]NP [has happening]VP 
+
+[we]NP [also]ADVP [fly]VP [all]NP [over]PP [the world]NP [looking]VP [for]PP [this thing]NP 
+
+[i]NP [recently]ADVP [joined]VP [a field campaign]NP [in]PP [malaysia]NP [there]NP [are]VP [others]NP
+
+[we]NP [found]VP [a global atmospheric watchtower]NP [there]NP [in]PP [the middle]NP [of]PP [the rainforest]NP [and] [hung]VP [hundreds] [of]PP [thousands] [of]PP [dollars]NP [worth]ADJP [of]PP [scientific equipment]NP [off]PP [this tower]NP [to]PP [look]VP [for]PP [isoprene]NP[and] [of]PP [course]NP [other things]NP [while]SBAR [we]NP [were] [there]NP 
+
+[this]NP [is]VP [the tower]NP [in]PP [the middle]NP [of]PP [the rainforest]NP [from]PP [above]PP 
+
+[and this]NP [is]VP [the tower]NP [from]PP [below]PP 
+
+[and] [on]PP [part]NP [of]PP [that field campaign]NP [we]NP [even]ADVP [brought]VP [an aircraft]NP [with]PP [us]NP 
+
+[and this plane]NP [the model ba146]NP [which]NP [was run]VP [by]PP [faam]NP [normally]ADVP [flies]VP [120]NP [to]PP [130 people]NP 
+
+[so]SBAR [maybe] [you]NP [took]VP [a similar aircraft]NP [to]PP [get]VP [here]NP [today]ADVP 
+
+[but]SBAR [we]NP [didn't just fly]VP [it]NP [we]NP [were flying]VP [at]PP [100 meters]NP [above]PP [the top]NP [of]PP [the canopy]NP [to]PP [measure]VP [this molecule]NP [incredibly dangerous]VP [stuff]NP 
+
+[we]NP [have to fly]VP [at]PP [a special incline]NP [in]PP [order]NP [to]PP [make]VP [the measurements]NP 
+
+[we]NP [hire]NP [military]NP [and] [test]VP [pilots]NP [to]PP [do]VP [the maneuvering]NP 
+
+[we]NP [have to getVP [special flight clearance]NP 
+
+[and] [as]SBAR [you]NP [come]VP [around]PP [the banks]NP [in]PP [these valleys]NP [the forces]NP [can get]NP [up]PP [to]PP [two gs]NP 
+
+[and the scientists]NP [have to be]VP [completely harnessed]ADJP [in]PP [order]NP [to]PP [make]VP [measurements]NP [while]ADJP [they]NP [aposre]VP [on]PP [board]NP 
+
+[so] [as]SBAR [you]NP [can imagine]VP [the inside]NP [of]PP [this aircraft]NP [doesn look]VP [like]PP [any plane]NP [you]NP [would take]VP [on]PP [vacation]NP 
+
+[it]NP [is]VP [a flying laboratory]NP [that]PP [we]NP [took to make]VP [measurements]NP [in]PP [the region]NP [of]PP [this molecule]NP 
+
+[we]NP [do]VP [all]NP [of]PP [this]NP [to]PP [understand]VP [the chemistry]NP [of]PP [one molecule]NP 
+
+[and] [when]ADVP [one student]NP [like]PP [me]NP [has]VP [some sort]NP [of]PP [inclination]NP [or] [understanding]NP [about]PP [that molecule]NP [they]NP [write]VP [one scientific paper]NP [on]PP [the subject]NP 
+
+[and] [out]ADJP [of]PP [that field campaign]NP [we]NP [probably get]NP [a few dozen papers]NP [on]PP [a few dozen processes]NP or [molecules]NP 
+
+[and] [as]SBAR [a body of knowledge]NP [builds]VP [up]PP [it]NP [will form]VP [one subsection]NP [or] [one subsubsection]NP [of]PP [an assessment]NP [like]ADJP [the ipcc]NP [although]SBAR [we]NP [have]VP [others]NP 
+
+[and] [each one]NP [of]PP [the 11 chapters]NP [of]PP [the ipcc]NP [has]VP [six]NP [to]PP [ten subsections]NP 
+
+[so] [you]NP [can imagine]VP [the scale]NP [of]PP [the effort]NP 
+

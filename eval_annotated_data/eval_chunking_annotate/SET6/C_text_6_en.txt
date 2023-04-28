@@ -1,0 +1,10 @@
+(Twelve years)/NP (ago)/ADVP , (writer-director James Cameron)/NP (made)/VP (Titanic)/NP , (an epic romance)/NP (that)/NP (became)/VP (the highest-grossing film)/NP (in)/PP (Hollywood history)/NP .
+(He)/NP (is making)/VP (cinema history)/NP (again)/ADVP (with)/PP (groundbreaking)/VP (new 3D technology)/NP (that)/NP (puts)/VP (audiences)/NP (in)/PP (the middle)/NP (of)/PP (his new science fiction adventure)/NP (set)/VP (on)/PP (another world)/NP (and)/ (150 years)/NP (in)/PP (the future)/NP .
+(Here)/NP ('s)/VP (a look)/NP (at)/PP (Avatar)/NP.
+(Jake Sully)/NP (is)/VP (a wounded warrior)/NP : (a U.S. Marine)/NP (paralyzed)/VP (from)/PP (a battlefield injury)/NP .
+(The chance)/NP (to walk)/VP (again)/ADVP (is)/VP (what)/NP (initially)/ADVP (draws)/VP (him)/NP (to)/PP (a distant)/ADJP , (dangerous moon)/NP .
+(You)/NP (are not)/VP (in)/PP (Kansas)/NP (anymore)/ADVP .
+(You)/NP ('re)/VP (on)/PP (Pandora)/NP .
+(Out)/PP (there)/NP (beyond)/PP (that fence)/NP (every living thing)/NP (that)/NP (crawls)/VP , (flies)/NP (or)/ (squats)/NP (in)/PP (the mud)/NP (wants to kill)/VP (you)/NP (and)/ (eat)/VP (your eyes)/NP (for)/PP (jujubes)/NP .
+(It)/NP (seems)/VP (Pandora)/NP (is)/VP (the only place)/NP (in)/PP (the galaxy)/NP (with)/PP (deposits)/NP (of)/PP (a valuable new energy source)/NP (worth)/VP (untold millions)/NP (back)/ADVP (on)/PP (Earth)/NP .
+(To get)/VP (it)/NP , (however)/ADVP , (they)/NP (have to go)/VP (through)/PRT (...)/ (or)/ (get)/VP (rid)/ADJP (of)/PP (...)/ (the Pandora natives)/NP (:)/ (a tall , blue-skinned tribe)/NP (called)/VP (the Navi)/NP .

@@ -1,0 +1,10 @@
+(The Tulip)/NP (were)/VP (originally)/ADVP (a wild flower)/NP (growing)/VP (in)/PP (the Central Asia)/NP and (were)/VP (first)/ADVP (cultivated)/VP (by)/PP (the Turks)/NP (as)/PP (early)/ADJP (as)/PP (1,000 AD)/NP .
+(The flower)/NP (were introduced)/VP (in)/PP (the westen Europe)/NP and (the Netherlands)/NP (in)/PP (the 17th century)/NP (by)/PP (Carolus Clusius)/NP , (a famous biologist)/NP (from)/PP (Vienna)/NP .
+(In)/PP (the 1590 's)/NP (he)/NP (became)/VP (the director)/NP (of)/PP (the Hortus Botanicus)/NP (in)/PP (Leiden)/NP , (the oldest botanical garden)/NP (of)/PP (Europe)/NP , (founded)/VP (in)/PP (1587)/NP .
+(He)/NP (was hired)/VP (by)/PP (the University)/NP (of)/PP (Leiden)/NP (to research)/VP (medicinal plants)/NP and (while)/SBAR (doing)/VP (so)/ADVP (he)/NP (got)/VP (some bulbs)/NP (from)/PP (Turkey)/NP (from)/PP (his friend Ogier Ghiselain de Busbecq)/NP , (the ambassador)/NP (of)/PP (Constantinople)/NP .
+(He)/NP (had seen)/VP (the beautiful flower)/NP , (called)/VP (tulip)/NP (after)/PP (the Turkish word)/NP (for)/PP (turban)/NP , (grow)/VP (in)/PP (the palace gardens)/NP and (sent)/VP (a few)/NP (to)/PP (Clusius)/NP (for)/PP (his garden)/NP (in)/PP (Leiden)/NP .
+(He)/NP (planted)/VP (them)/NP and (this)/NP (was)/VP (the start)/NP (of)/PP (the amazing bulb fields)/NP (we)/NP (can see)/VP (today)/NP .
+(In)/PP (the beginning)/NP (of)/PP (the 17th century)/NP (the tulip)/NP (were staring to be used)/VP (as)/PP (a garden decoration)/NP (beside)/PP (the former medicinal purposes)/NP .
+(It)/NP (soon)/ADVP (gained)/VP (major popularity)/NP (as)/PP (a trading product)/NP , (especially)/ADVP (in)/PP (Holland)/NP .
+(The interest)/NP (for)/PP (the flower)/NP (were)/VP (huge)/ADJP and (bulbs)/NP (were sold)/VP (for)/PP (unbelievable high prices)/NP .
+(Botanists)/NP (started to hybridize)/VP (the flower)/NP and (they)/NP (soon)/ADVP (found)/VP (ways)/NP (of)/PP (making)/VP (it)/NP (even)/ADVP (more decorative)/ADJP and (tempting specimens)/NP .

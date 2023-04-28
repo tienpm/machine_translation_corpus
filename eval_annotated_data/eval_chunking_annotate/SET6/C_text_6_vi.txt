@@ -1,0 +1,10 @@
+(Cách)/VP (đây)/NP (mười hai năm)/NP , (đạo diễn)/NP (kiêm)/VP (kịch bản phim)/NP (James Cameron)/NP (đã làm nên)/VP (Titanic)/NP , (một thiên tình sử lãng mạn)/NP (đã trở thành)/VP (bộ phim)/NP (có)/VP (doanh thu)/NP (cao nhất)/AP (trong)/PP (lịch sử Hollywood)/NP .
+(Ông ấy)/NP (đang lặp lại)/VP (lịch sử điện ảnh)/NP (với)/PP (công nghệ 3D)/NP (mới)/AP (mang)/VP (tính đột phá)/NP (đưa)/VP (người xem)/NP (tham gia)/VP (vào)/PP (chuyến phiêu lưu khoa học giả tưởng)/NP (mới)/VP (của)/PP (ông)/NP (lấy)/VP (bối cảnh)/NP (ở)/PP (một thế giới)/NP (khác)/AP (và)/ (cách)/VP (đây)/NP (150 năm nữa)/NP .
+(Đây)/NP (là)/VP (sơ lược)/NP (về)/PP (Avatar)/NP .
+(Jake Sully)/NP (là)/VP (chiến binh)/NP (bị thương)/VP : (một người lính thuỷ quân lục chiến)/NP (bị liệt)/VP (chân)/NP (từ)/PP (một chấn thương)/NP (trên)/PP (chiến trường)/NP .
+(Cơ hội)/NP (được đi đứng trở lại)/VP (là)/VP (những gì)/NP (đầu tiên)/AP (thôi thúc)/VP (anh ta)/NP (đến)/VP (một hành tinh)/NP (xa xôi)/AP (đầy nguy hiểm)/AP .
+(Anh)/NP (không còn ở)/VP (Kansas)/NP nữa .
+(Anh)/NP (đang ở)/VP (trên)/PP (Pandora)/NP .
+(Ngoài)/PP (hàng rào chắn kia)/NP (là)/VP (muôn loài sinh vật)/NP (biết)/VP (bò)/VP , (bay)/VP (và)/ (chui)/VP (trong)/PP (bùn)/NP (muốn giết)/VP (anh)/NP (và)/ (nhai)/VP (cặp mắt)/NP (của)/PP (anh)/NP (như thể)/ (kẹo jujubes)/NP .
+(Dường như)/ (Pandora)/NP (là)/VP (nơi)/NP (duy nhất)/AP (trong)/PP (thiên hà)/NP (chứa đựng)/VP (nhiều trầm tích)/NP (của)/PP (một nguồn năng lượng)/NP (mới)/AP (quý giá)/AP (mà)/ (khi)/NP (mang)/VP (về)/PP (đất)/NP (thì)/ (không ai)/NP (biết được)/VP (chúng)/NP (có)/VP (giá trị)/AP (bao nhiêu triệu đô la)/NP .
+(Tuy nhiên)/ , (để lấy được)/VP (nó)/NP , (họ)/NP (phải xâm nhập)/VP (…)/ (hoặc)/ (tống khứ)/VP (…)/ (bộ tộc Pandora)/NP (:)/ (một bộ tộc)/NP (cao lớn)/AP , (da màu)/NP (xanh dương)/AP (gọi là)/VP (người Navi)/NP .

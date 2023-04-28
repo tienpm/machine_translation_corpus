@@ -1,0 +1,10 @@
+(The name)/NP (Helen Keller)/NP (has had)/VP (special meaning)/NP (for)/PP (millions)/NP (of)/PP (people)/NP (in)/PP (all parts)/NP (of)/PP (the world)/NP .
+(She)/NP (could not see)/VP (or)/ (hear)/VP .
+(Yet)/ADVP (Helen Keller)/NP (was able to do)/VP (so much)/NP (with)/PP (her days)/NP (and)/ (years)/NP .
+(Her success)/NP (gave)/VP (others)/NP (hope)/NP .
+(Helen Keller)/NP (was born)/VP (June 22th)/NP , (eighteen eighty)/NP (in)/PP (a small town)/NP (in)/PP (northern Alabama)/NP .
+(Her father)/NP , (Arthur Keller)/NP , (was)/VP (a captain)/NP (in)/PP (the army)/NP (of)/PP (the South)/NP (during)/PP (the American Civil War)/NP .
+(Her mother)/NP (was)/VP (his second wife)/NP .
+(She)/NP (was)/VP (much younger)/ADJP (than)/PP (her husband)/NP .
+(Helen)/NP (was)/VP (their first child)/NP .
+(Until)/SBAR (she)/NP (was)/VP (a year-and-one-half)/NP (old)/ADJP , (Helen Keller)/NP (was)/VP (just)/ADVP (like)/PP (any other child)/NP .

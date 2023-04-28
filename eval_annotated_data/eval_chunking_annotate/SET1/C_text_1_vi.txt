@@ -1,0 +1,10 @@
+(Fenqing)/NP (là)/VP (một)/QP (từ tiếng Hoa)/NP (mà)/PP (nghĩa đen)/NP (là)/VP (" thanh niên phẫn nộ ")/NP .
+(Từ này)/NP (có)/VP (nhiều)/QP (cách)/NP (dịch)/VP (sang)/PP (tiếng Anh)/NP (như)/PP (là)/VP (thanh niên)/NP (hoài nghi)/VP , (thanh niên)/NP (theo)/VP (chủ nghĩa dân tộc)/NP , (thanh niên)/NP (cuồng loạn)/AP và (thanh niên)/NP (tức giận)/VP .
+(Cá nhân tôi)/NP (thích gọi)/VP (chúng)/NP (là)/VP (bọn thanh niên)/NP (du thủ du thực)/NP (hoặc)/PP (thanh niên)/NP (phẫn nộ)/VP và (ngu dốt)/AP .
+(Không thể hiểu được)/VP (Trung Quốc)/NP (nếu)/PP (không biết)/VP (Fenqing)/NP (là)/VP (gì)/NP và (họ)/NP (đóng)/VP (vai trò gì)/NP (trong)/PP (xã hội Trung Quốc ngày nay)/NP .
+(Trong)/PP (bài viết này)/NP , (tôi)/NP (sẽ cố phác hoạ)/VP (chân dung)/NP (một)/QP (Fenqing)/NP .
+(Thường)/AP thì (Fenqing)/NP (là)/VP (người)/NP (dưới hai mươi)/QP (tuổi)/NP , (tuy)/PP đôi lúc (có)/VP (những kẻ)/NP (hơn hai mươi)/QP (tuổi)/NP cũng (được coi là)/VP (Fenqing)/NP .
+(Tuy)/PP (bạn)/NP (có thể thấy)/VP (đa số)/QP (các Fenqing)/NP (trong)/PP (số học sinh trung học)/NP (và)/ (sinh viên cao đẳng)/NP , (nhưng)/PP (tuổi tác)/NP (không phải là)/VP (đặc điểm)/NP (quan trọng nhất)/AP .
+(Điều)/NP (thực sự quan trọng)/AP (là)/VP (cách)/NP (họ)/NP (nhìn nhận)/VP (về)/PP (Trung Quốc và thế giới)/NP .
+(Việc)/NP (mà)/PP (đa số)/QP (Fenqing)/NP (không hiểu biết)/VP (nhiều thứ)/NP (là)/VP (yếu tố)/NP (để xác định)/VP (ý kiến và quan điểm của họ)/NP (về)/PP (thế giới và Trung Quốc)/NP .
+(Fenqing)/NP (tin rằng)/VP (ba)/QP (thứ này)/NP (về)/PP (cơ bản)/NP (là)/VP (giống nhau)/AP .

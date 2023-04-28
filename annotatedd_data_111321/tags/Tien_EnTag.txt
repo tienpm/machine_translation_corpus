@@ -1,0 +1,100 @@
+[('rachel', 'NN'), ('pike', 'IN'), ('the', 'DT'), ('science', 'NN'), ('behind', 'IN'), ('a', 'DT'), ('climate', 'NN'), ('headline', 'NN')]
+
+[('in', 'IN'), ('4', 'CD'), ('minutes', 'NNS'), ('atmospheric', 'JJ'), ('chemist', 'NN'), ('rachel', 'NN'), ('pike', 'NN'), ('provides', 'VBZ'), ('a', 'DT'), ('glimpse', 'NN'), ('of', 'IN'), ('the', 'DT'), ('massive', 'JJ'), ('scientific', 'JJ'), ('effort', 'NN'), ('behind', 'IN'), ('the', 'DT'), ('bold', 'JJ'), ('headlines', 'NNS'), ('on', 'IN'), ('climate', 'NN'), ('change', 'NN'), ('with', 'IN'), ('her', 'PRP$'), ('team', 'NN'), ('one', 'CD'), ('of', 'IN'), ('thousands', 'NNS'), ('who', 'WP'), ('contributed', 'VBD'), ('taking', 'VBG'), ('a', 'DT'), ('risky', 'JJ'), ('flight', 'NN'), ('over', 'IN'), ('the', 'DT'), ('rainforest', 'NN'), ('in', 'IN'), ('pursuit', 'NN'), ('of', 'IN'), ('data', 'NNS'), ('on', 'IN'), ('a', 'DT'), ('key', 'JJ'), ('molecule', 'NN')]
+
+[('i', 'JJ'), ('aposd', 'VBP'), ('like', 'IN'), ('to', 'TO'), ('talk', 'VB'), ('to', 'TO'), ('you', 'PRP'), ('today', 'NN'), ('about', 'IN'), ('the', 'DT'), ('scale', 'NN'), ('of', 'IN'), ('the', 'DT'), ('scientific', 'JJ'), ('effort', 'NN'), ('that', 'WDT'), ('goes', 'VBZ'), ('into', 'IN'), ('making', 'VBG'), ('the', 'DT'), ('headlines', 'NNS'), ('you', 'PRP'), ('see', 'VBP'), ('in', 'IN'), ('the', 'DT'), ('paper', 'NN')]
+
+[('headlines', 'NNS'), ('that', 'WDT'), ('look', 'VBP'), ('like', 'IN'), ('this', 'DT'), ('when', 'WRB'), ('they', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('do', 'VB'), ('with', 'IN'), ('climate', 'NN'), ('change', 'NN'), ('and', 'CC'), ('headlines', 'NNS'), ('that', 'WDT'), ('look', 'VBP'), ('like', 'IN'), ('this', 'DT'), ('when', 'WRB'), ('they', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('do', 'VB'), ('with', 'IN'), ('air', 'NN'), ('quality', 'NN'), ('or', 'CC'), ('smog', 'NN')]
+
+[('they', 'PRP'), ('are', 'VBP'), ('both', 'DT'), ('two', 'CD'), ('branches', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('same', 'JJ'), ('field', 'NN'), ('of', 'IN'), ('atmospheric', 'JJ'), ('science', 'NN')]
+
+[('recently', 'RB'), ('the', 'DT'), ('headlines', 'NNS'), ('looked', 'VBD'), ('like', 'IN'), ('this', 'DT'), ('when', 'WRB'), ('the', 'DT'), ('intergovernmental', 'JJ'), ('panel', 'NN'), ('on', 'IN'), ('climate', 'NN'), ('change', 'NN'), ('or', 'CC'), ('ipcc', 'NN'), ('put', 'VBN'), ('out', 'RP'), ('their', 'PRP$'), ('report', 'NN'), ('on', 'IN'), ('the', 'DT'), ('state', 'NN'), ('of', 'IN'), ('understanding', 'NN'), ('of', 'IN'), ('the', 'DT'), ('atmospheric', 'JJ'), ('system', 'NN')]
+
+[('that', 'DT'), ('report', 'NN'), ('was', 'VBD'), ('written', 'VBN'), ('by', 'IN'), ('620', 'CD'), ('scientists', 'NNS'), ('from', 'IN'), ('40', 'CD'), ('countries', 'NNS')]
+
+[('they', 'PRP'), ('wrote', 'VBD'), ('almost', 'RB'), ('a', 'DT'), ('thousand', 'NN'), ('pages', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('topic', 'NN')]
+
+[('and', 'CC'), ('all', 'DT'), ('of', 'IN'), ('those', 'DT'), ('pages', 'NNS'), ('were', 'VBD'), ('reviewed', 'VBN'), ('by', 'IN'), ('another', 'DT'), ('400plus', 'CD'), ('scientists', 'NNS'), ('and', 'CC'), ('reviewers', 'NNS'), ('from', 'IN'), ('113', 'CD'), ('countries', 'NNS')]
+
+[('it', 'PRP'), ('aposs', 'VBZ'), ('a', 'DT'), ('big', 'JJ'), ('community', 'NN'), ('it', 'PRP'), ('aposs', 'IN'), ('such', 'PDT'), ('a', 'DT'), ('big', 'JJ'), ('community', 'NN'), ('in', 'IN'), ('fact', 'NN'), ('that', 'IN'), ('our', 'PRP$'), ('annual', 'JJ'), ('gathering', 'NN'), ('is', 'VBZ'), ('the', 'DT'), ('largest', 'JJS'), ('scientific', 'JJ'), ('meeting', 'NN'), ('in', 'IN'), ('the', 'DT'), ('world', 'NN')]
+
+[('over', 'IN'), ('15000', 'CD'), ('scientists', 'NNS'), ('go', 'VBP'), ('to', 'TO'), ('san', 'VB'), ('francisco', 'NN'), ('every', 'DT'), ('year', 'NN'), ('for', 'IN'), ('that', 'DT')]
+
+[('and', 'CC'), ('every', 'DT'), ('one', 'CD'), ('of', 'IN'), ('those', 'DT'), ('scientists', 'NNS'), ('is', 'VBZ'), ('in', 'IN'), ('a', 'DT'), ('research', 'NN'), ('group', 'NN'), ('and', 'CC'), ('every', 'DT'), ('research', 'NN'), ('group', 'NN'), ('studies', 'NNS'), ('a', 'DT'), ('wide', 'JJ'), ('variety', 'NN'), ('of', 'IN'), ('topics', 'NNS')]
+
+[('for', 'IN'), ('us', 'PRP'), ('at', 'IN'), ('cambridge', 'NN'), ('it', 'PRP'), ('aposs', 'IN'), ('as', 'RB'), ('varied', 'VBN'), ('as', 'IN'), ('the', 'DT'), ('el', 'NN'), ('niño', 'NN'), ('oscillation', 'NN'), ('which', 'WDT'), ('affects', 'VBZ'), ('weather', 'NN'), ('and', 'CC'), ('climate', 'NN'), ('to', 'TO'), ('the', 'DT'), ('assimilation', 'NN'), ('of', 'IN'), ('satellite', 'NN'), ('data', 'NNS'), ('to', 'TO'), ('emissions', 'NNS'), ('from', 'IN'), ('crops', 'NNS'), ('that', 'WDT'), ('produce', 'VBP'), ('biofuels', 'NNS'), ('which', 'WDT'), ('is', 'VBZ'), ('what', 'WP'), ('i', 'JJ'), ('happen', 'VBP'), ('to', 'TO'), ('study', 'VB')]
+
+[('and', 'CC'), ('in', 'IN'), ('each', 'DT'), ('one', 'CD'), ('of', 'IN'), ('these', 'DT'), ('research', 'NN'), ('areas', 'NNS'), ('of', 'IN'), ('which', 'WDT'), ('there', 'EX'), ('are', 'VBP'), ('even', 'RB'), ('more', 'RBR'), ('there', 'EX'), ('are', 'VBP'), ('phd', 'JJ'), ('students', 'NNS'), ('like', 'IN'), ('me', 'PRP'), ('and', 'CC'), ('we', 'PRP'), ('study', 'VBP'), ('incredibly', 'RB'), ('narrow', 'JJ'), ('topics', 'NNS'), ('things', 'NNS'), ('as', 'RB'), ('narrow', 'JJ'), ('as', 'IN'), ('a', 'DT'), ('few', 'JJ'), ('processes', 'NNS'), ('or', 'CC'), ('a', 'DT'), ('few', 'JJ'), ('molecules', 'NNS')]
+
+[('and', 'CC'), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('molecules', 'NNS'), ('i', 'VBP'), ('study', 'NN'), ('is', 'VBZ'), ('called', 'VBN'), ('isoprene', 'NN'), ('which', 'WDT'), ('is', 'VBZ'), ('here', 'RB'), ('it', 'PRP'), ('aposs', 'IN'), ('a', 'DT'), ('small', 'JJ'), ('organic', 'JJ'), ('molecule', 'NN'), ('you', 'PRP'), ('aposve', 'VBP'), ('probably', 'RB'), ('never', 'RB'), ('heard', 'NN'), ('of', 'IN'), ('it', 'PRP')]
+
+[('the', 'DT'), ('weight', 'NN'), ('of', 'IN'), ('a', 'DT'), ('paper', 'NN'), ('clip', 'NN'), ('is', 'VBZ'), ('approximately', 'RB'), ('equal', 'JJ'), ('to', 'TO'), ('900', 'CD'), ('zetaillion', 'NN'), ('10', 'CD'), ('to', 'TO'), ('the', 'DT'), ('21st', 'CD'), ('molecules', 'NNS'), ('of', 'IN'), ('isoprene', 'NN')]
+
+[('but', 'CC'), ('despite', 'IN'), ('its', 'PRP$'), ('very', 'RB'), ('small', 'JJ'), ('weight', 'VBD'), ('enough', 'RB'), ('of', 'IN'), ('it', 'PRP'), ('is', 'VBZ'), ('emitted', 'VBN'), ('into', 'IN'), ('the', 'DT'), ('atmosphere', 'NN'), ('every', 'DT'), ('year', 'NN'), ('to', 'TO'), ('equal', 'VB'), ('the', 'DT'), ('weight', 'NN'), ('of', 'IN'), ('all', 'PDT'), ('the', 'DT'), ('people', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('planet', 'NN')]
+
+[('it', 'PRP'), ('aposs', 'VBZ'), ('a', 'DT'), ('huge', 'JJ'), ('amount', 'NN'), ('of', 'IN'), ('stuff', 'NN'), ('it', 'PRP'), ('aposs', 'VBZ'), ('equal', 'JJ'), ('to', 'TO'), ('the', 'DT'), ('weight', 'NN'), ('of', 'IN'), ('methane', 'NN')]
+
+[('and', 'CC'), ('because', 'IN'), ('it', 'PRP'), ('aposs', 'VBZ'), ('so', 'RB'), ('much', 'JJ'), ('stuff', 'NN'), ('it', 'PRP'), ('aposs', 'VBZ'), ('really', 'RB'), ('important', 'JJ'), ('for', 'IN'), ('the', 'DT'), ('atmospheric', 'JJ'), ('system', 'NN')]
+
+[('because', 'IN'), ('it', 'PRP'), ('aposs', 'VBZ'), ('important', 'JJ'), ('to', 'TO'), ('the', 'DT'), ('atmospheric', 'JJ'), ('system', 'NN'), ('we', 'PRP'), ('go', 'VBP'), ('to', 'TO'), ('all', 'DT'), ('lengths', 'NNS'), ('to', 'TO'), ('study', 'VB'), ('this', 'DT'), ('thing', 'NN')]
+
+[('we', 'PRP'), ('blow', 'VBP'), ('it', 'PRP'), ('up', 'RP'), ('and', 'CC'), ('look', 'VB'), ('at', 'IN'), ('the', 'DT'), ('pieces', 'NNS')]
+
+[('this', 'DT'), ('is', 'VBZ'), ('the', 'DT'), ('euphore', 'NN'), ('smog', 'JJ'), ('chamber', 'NN'), ('in', 'IN'), ('spain', 'NN')]
+
+[('atmospheric', 'JJ'), ('explosions', 'NNS'), ('or', 'CC'), ('full', 'JJ'), ('combustion', 'NN'), ('takes', 'VBZ'), ('about', 'IN'), ('15000', 'CD'), ('times', 'NNS'), ('longer', 'JJR'), ('than', 'IN'), ('what', 'WP'), ('happens', 'VBZ'), ('in', 'IN'), ('your', 'PRP$'), ('car', 'NN')]
+
+[('but', 'CC'), ('still', 'RB'), ('we', 'PRP'), ('look', 'VBP'), ('at', 'IN'), ('the', 'DT'), ('pieces', 'NNS')]
+
+[('we', 'PRP'), ('run', 'VBP'), ('enormous', 'JJ'), ('models', 'NNS'), ('on', 'IN'), ('supercomputers', 'NNS'), ('this', 'DT'), ('is', 'VBZ'), ('what', 'WP'), ('i', 'JJ'), ('happen', 'VBP'), ('to', 'TO'), ('do', 'VB')]
+
+[('our', 'PRP$'), ('models', 'NNS'), ('have', 'VBP'), ('hundreds', 'NNS'), ('of', 'IN'), ('thousands', 'NNS'), ('of', 'IN'), ('grid', 'JJ'), ('boxes', 'NNS'), ('calculating', 'VBG'), ('hundreds', 'NNS'), ('of', 'IN'), ('variables', 'NNS'), ('each', 'DT'), ('on', 'IN'), ('minute', 'NN'), ('timescales', 'NNS')]
+
+[('and', 'CC'), ('it', 'PRP'), ('takes', 'VBZ'), ('weeks', 'NNS'), ('to', 'TO'), ('perform', 'VB'), ('our', 'PRP$'), ('integrations', 'NNS')]
+
+[('and', 'CC'), ('we', 'PRP'), ('perform', 'VBP'), ('dozens', 'NNS'), ('of', 'IN'), ('integrations', 'NNS'), ('in', 'IN'), ('order', 'NN'), ('to', 'TO'), ('understand', 'VB'), ('what', 'WP'), ('aposs', 'IN'), ('happening', 'VBG')]
+
+[('we', 'PRP'), ('also', 'RB'), ('fly', 'VBP'), ('all', 'DT'), ('over', 'IN'), ('the', 'DT'), ('world', 'NN'), ('looking', 'VBG'), ('for', 'IN'), ('this', 'DT'), ('thing', 'NN')]
+
+[('i', 'NN'), ('recently', 'RB'), ('joined', 'VBD'), ('a', 'DT'), ('field', 'NN'), ('campaign', 'NN'), ('in', 'IN'), ('malaysia', 'NN'), ('there', 'EX'), ('are', 'VBP'), ('others', 'NNS')]
+
+[('we', 'PRP'), ('found', 'VBD'), ('a', 'DT'), ('global', 'JJ'), ('atmospheric', 'JJ'), ('watchtower', 'NN'), ('there', 'EX'), ('in', 'IN'), ('the', 'DT'), ('middle', 'NN'), ('of', 'IN'), ('the', 'DT'), ('rainforest', 'NN'), ('and', 'CC'), ('hung', 'NN'), ('hundreds', 'NNS'), ('of', 'IN'), ('thousands', 'NNS'), ('of', 'IN'), ('dollars', 'NNS'), ('worth', 'IN'), ('of', 'IN'), ('scientific', 'JJ'), ('equipment', 'NN'), ('off', 'IN'), ('this', 'DT'), ('tower', 'NN'), ('to', 'TO'), ('look', 'VB'), ('for', 'IN'), ('isoprene', 'NN'), ('and', 'CC'), ('of', 'IN'), ('course', 'NN'), ('other', 'JJ'), ('things', 'NNS'), ('while', 'IN'), ('we', 'PRP'), ('were', 'VBD'), ('there', 'EX')]
+
+[('this', 'DT'), ('is', 'VBZ'), ('the', 'DT'), ('tower', 'NN'), ('in', 'IN'), ('the', 'DT'), ('middle', 'NN'), ('of', 'IN'), ('the', 'DT'), ('rainforest', 'NN'), ('from', 'IN'), ('above', 'IN')]
+
+[('and', 'CC'), ('this', 'DT'), ('is', 'VBZ'), ('the', 'DT'), ('tower', 'NN'), ('from', 'IN'), ('below', 'IN')]
+
+[('and', 'CC'), ('on', 'IN'), ('part', 'NN'), ('of', 'IN'), ('that', 'DT'), ('field', 'NN'), ('campaign', 'NN'), ('we', 'PRP'), ('even', 'RB'), ('brought', 'VBD'), ('an', 'DT'), ('aircraft', 'NN'), ('with', 'IN'), ('us', 'PRP')]
+
+[('and', 'CC'), ('this', 'DT'), ('plane', 'NN'), ('the', 'DT'), ('model', 'NN'), ('ba146', 'NN'), ('which', 'WDT'), ('was', 'VBD'), ('run', 'VBN'), ('by', 'IN'), ('faam', 'NN'), ('normally', 'RB'), ('flies', 'VBZ'), ('120', 'CD'), ('to', 'TO'), ('130', 'CD'), ('people', 'NNS')]
+
+[('so', 'RB'), ('maybe', 'RB'), ('you', 'PRP'), ('took', 'VBD'), ('a', 'DT'), ('similar', 'JJ'), ('aircraft', 'NN'), ('to', 'TO'), ('get', 'VB'), ('here', 'RB'), ('today', 'NN')]
+
+[('but', 'CC'), ('we', 'PRP'), ('didn', 'VBP'), ('apost', 'RB'), ('just', 'RB'), ('fly', 'VB'), ('it', 'PRP'), ('we', 'PRP'), ('were', 'VBD'), ('flying', 'VBG'), ('at', 'IN'), ('100', 'CD'), ('meters', 'NNS'), ('above', 'IN'), ('the', 'DT'), ('top', 'NN'), ('of', 'IN'), ('the', 'DT'), ('canopy', 'NN'), ('to', 'TO'), ('measure', 'VB'), ('this', 'DT'), ('molecule', 'NN'), ('incredibly', 'RB'), ('dangerous', 'JJ'), ('stuff', 'NN')]
+
+[('we', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('fly', 'VB'), ('at', 'IN'), ('a', 'DT'), ('special', 'JJ'), ('incline', 'NN'), ('in', 'IN'), ('order', 'NN'), ('to', 'TO'), ('make', 'VB'), ('the', 'DT'), ('measurements', 'NNS')]
+
+[('we', 'PRP'), ('hire', 'VBP'), ('military', 'JJ'), ('and', 'CC'), ('test', 'JJ'), ('pilots', 'NNS'), ('to', 'TO'), ('do', 'VB'), ('the', 'DT'), ('maneuvering', 'NN')]
+
+[('we', 'PRP'), ('have', 'VBP'), ('to', 'TO'), ('get', 'VB'), ('special', 'JJ'), ('flight', 'NN'), ('clearance', 'NN')]
+
+[('and', 'CC'), ('as', 'IN'), ('you', 'PRP'), ('come', 'VBP'), ('around', 'IN'), ('the', 'DT'), ('banks', 'NNS'), ('in', 'IN'), ('these', 'DT'), ('valleys', 'NNS'), ('the', 'DT'), ('forces', 'NNS'), ('can', 'MD'), ('get', 'VB'), ('up', 'RB'), ('to', 'TO'), ('two', 'CD'), ('gs', 'NNS')]
+
+[('and', 'CC'), ('the', 'DT'), ('scientists', 'NNS'), ('have', 'VBP'), ('to', 'TO'), ('be', 'VB'), ('completely', 'RB'), ('harnessed', 'VBN'), ('in', 'IN'), ('in', 'IN'), ('order', 'NN'), ('to', 'TO'), ('make', 'VB'), ('measurements', 'NNS'), ('while', 'IN'), ('they', 'PRP'), ('aposre', 'VBP'), ('on', 'IN'), ('board', 'NN')]
+
+[('so', 'RB'), ('as', 'IN'), ('you', 'PRP'), ('can', 'MD'), ('imagine', 'VB'), ('the', 'DT'), ('inside', 'NN'), ('of', 'IN'), ('this', 'DT'), ('aircraft', 'NN'), ('doesn', 'VBZ'), ('apost', 'JJ'), ('look', 'NNS'), ('like', 'IN'), ('any', 'DT'), ('plane', 'NN'), ('you', 'PRP'), ('would', 'MD'), ('take', 'VB'), ('on', 'IN'), ('vacation', 'NN')]
+
+[('it', 'PRP'), ('aposs', 'VBZ'), ('a', 'DT'), ('flying', 'VBG'), ('laboratory', 'NN'), ('that', 'IN'), ('we', 'PRP'), ('took', 'VBD'), ('to', 'TO'), ('make', 'VB'), ('measurements', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('region', 'NN'), ('of', 'IN'), ('this', 'DT'), ('molecule', 'NN')]
+
+[('we', 'PRP'), ('do', 'VBP'), ('all', 'DT'), ('of', 'IN'), ('this', 'DT'), ('to', 'TO'), ('understand', 'VB'), ('the', 'DT'), ('chemistry', 'NN'), ('of', 'IN'), ('one', 'CD'), ('molecule', 'NN')]
+
+[('and', 'CC'), ('when', 'WRB'), ('one', 'CD'), ('student', 'NN'), ('like', 'IN'), ('me', 'PRP'), ('has', 'VBZ'), ('some', 'DT'), ('sort', 'NN'), ('of', 'IN'), ('inclination', 'NN'), ('or', 'CC'), ('understanding', 'VBG'), ('about', 'IN'), ('that', 'DT'), ('molecule', 'NN'), ('they', 'PRP'), ('write', 'VBP'), ('one', 'CD'), ('scientific', 'JJ'), ('paper', 'NN'), ('on', 'IN'), ('the', 'DT'), ('subject', 'NN')]
+
+[('and', 'CC'), ('out', 'IN'), ('of', 'IN'), ('that', 'DT'), ('field', 'NN'), ('campaign', 'NN'), ('we', 'PRP'), ('aposll', 'VBP'), ('probably', 'RB'), ('get', 'VB'), ('a', 'DT'), ('few', 'JJ'), ('dozen', 'NN'), ('papers', 'NNS'), ('on', 'IN'), ('a', 'DT'), ('few', 'JJ'), ('dozen', 'NN'), ('processes', 'NNS'), ('or', 'CC'), ('molecules', 'NNS')]
+
+[('and', 'CC'), ('as', 'IN'), ('a', 'DT'), ('body', 'NN'), ('of', 'IN'), ('knowledge', 'NN'), ('builds', 'VBZ'), ('up', 'IN'), ('it', 'PRP'), ('will', 'MD'), ('form', 'VB'), ('one', 'CD'), ('subsection', 'NN'), ('or', 'CC'), ('one', 'CD'), ('subsubsection', 'NN'), ('of', 'IN'), ('an', 'DT'), ('assessment', 'NN'), ('like', 'IN'), ('the', 'DT'), ('ipcc', 'JJ'), ('although', 'IN'), ('we', 'PRP'), ('have', 'VBP'), ('others', 'NNS')]
+
+[('and', 'CC'), ('each', 'DT'), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('11', 'CD'), ('chapters', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('ipcc', 'NN'), ('has', 'VBZ'), ('six', 'CD'), ('to', 'TO'), ('ten', 'VB'), ('subsections', 'NNS')]
+
+[('so', 'IN'), ('you', 'PRP'), ('can', 'MD'), ('imagine', 'VB'), ('the', 'DT'), ('scale', 'NN'), ('of', 'IN'), ('the', 'DT'), ('effort', 'NN')]
+

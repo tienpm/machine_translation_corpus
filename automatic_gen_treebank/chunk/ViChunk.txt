@@ -1,0 +1,100 @@
+[('khoa học', 'N', 'B-NP'), ('đằng', 'N', 'B-NP'), ('sau', 'N', 'B-NP'), ('một', 'M', 'B-NP'), ('tiêu đề', 'N', 'B-NP'), ('về', 'E', 'B-PP'), ('khí hậu', 'M', 'B-NP')]
+
+[('trong', 'E', 'B-PP'), ('4', 'M', 'B-NP'), ('phút', 'Nu', 'B-NP'), ('chuyên gia', 'N', 'B-NP'), ('hoá học', 'N', 'B-NP'), ('khí quyển', 'V', 'B-VP'), ('rachel', 'N', 'B-NP'), ('pike', 'V', 'B-VP'), ('giới thiệu', 'V', 'B-VP'), ('sơ lược', 'V', 'B-VP'), ('về', 'E', 'B-PP'), ('những', 'L', 'B-NP'), ('nỗ lực', 'N', 'B-NP'), ('khoa học', 'N', 'B-NP'), ('miệt mài', 'A', 'B-AP'), ('đằng', 'N', 'B-NP'), ('sau', 'N', 'B-NP'), ('những', 'L', 'B-NP'), ('tiêu đề', 'N', 'B-NP'), ('táo bạo', 'A', 'B-AP'), ('về', 'E', 'B-PP'), ('biến đổi', 'N', 'B-NP'), ('khí hậu', 'V', 'B-VP'), ('cùng', 'C', 'O'), ('với', 'E', 'B-PP'), ('đoàn', 'N', 'B-NP'), ('nghiên cứu', 'V', 'B-VP'), ('của', 'E', 'B-PP'), ('mình', 'P', 'B-NP'), ('hàng', 'R', 'O'), ('ngàn', 'M', 'B-NP'), ('người', 'N', 'B-NP'), ('đã', 'R', 'O'), ('cống hiến', 'V', 'B-VP'), ('cho', 'E', 'B-PP'), ('dự án', 'N', 'B-NP'), ('này', 'P', 'B-NP'), ('một', 'M', 'B-NP'), ('chuyến', 'N', 'B-NP'), ('bay', 'V', 'B-VP'), ('mạo hiểm', 'V', 'B-VP'), ('qua', 'E', 'B-PP'), ('rừng già', 'N', 'B-NP'), ('để', 'E', 'B-PP'), ('tìm kiếm', 'V', 'B-VP'), ('thông tin', 'N', 'B-NP'), ('về', 'E', 'B-PP'), ('một', 'M', 'B-NP'), ('phân tử', 'N', 'B-NP'), ('then chốt', 'M', 'B-NP')]
+
+[('tôi', 'P', 'B-NP'), ('muốn', 'V', 'B-VP'), ('cho', 'V', 'B-VP'), ('các', 'L', 'B-NP'), ('bạn', 'N', 'B-NP'), ('biết', 'V', 'B-VP'), ('về', 'E', 'B-PP'), ('sự', 'N', 'B-NP'), ('to lớn', 'A', 'B-AP'), ('của', 'E', 'B-PP'), ('những', 'L', 'B-NP'), ('nỗ lực', 'N', 'B-NP'), ('khoa học', 'N', 'B-NP'), ('đã', 'R', 'O'), ('góp phần', 'V', 'B-VP'), ('làm nên', 'V', 'B-VP'), ('các', 'L', 'B-NP'), ('dòng', 'N', 'B-NP'), ('tít', 'N', 'B-NP'), ('bạn', 'N', 'B-NP'), ('thường', 'R', 'O'), ('thấy', 'V', 'B-VP'), ('trên', 'E', 'B-PP'), ('báo', 'N', 'B-NP')]
+
+[('có', 'V', 'B-VP'), ('những', 'L', 'B-NP'), ('dòng', 'N', 'B-NP'), ('trông', 'V', 'B-VP'), ('như', 'C', 'O'), ('thế này', 'P', 'B-NP'), ('khi', 'N', 'B-NP'), ('bàn', 'V', 'B-VP'), ('về', 'R', 'O'), ('biến đổi', 'V', 'B-VP'), ('khí hậu', 'N', 'B-NP'), ('và', 'C', 'O'), ('như', 'C', 'O'), ('thế này', 'P', 'B-NP'), ('khi', 'N', 'B-NP'), ('nói', 'V', 'B-VP'), ('về', 'E', 'B-PP'), ('chất lượng', 'N', 'B-NP'), ('không khí', 'N', 'B-NP'), ('hay', 'C', 'O'), ('khói', 'N', 'B-NP'), ('bụi', 'N', 'B-NP')]
+
+[('cả', 'P', 'B-NP'), ('hai', 'M', 'B-NP'), ('đều', 'R', 'O'), ('là', 'V', 'B-VP'), ('một', 'M', 'B-NP'), ('nhánh', 'N', 'B-NP'), ('của', 'E', 'B-PP'), ('cùng', 'A', 'B-AP'), ('một', 'M', 'B-NP'), ('lĩnh vực', 'N', 'B-NP'), ('trong', 'E', 'B-PP'), ('ngành', 'N', 'B-NP'), ('khoa học', 'N', 'B-NP'), ('khí quyển', 'M', 'B-NP')]
+
+[('các', 'L', 'B-NP'), ('tiêu đề', 'N', 'B-NP'), ('gần', 'A', 'B-AP'), ('đây', 'P', 'B-NP'), ('trông', 'V', 'B-VP'), ('như', 'C', 'O'), ('thế này', 'P', 'B-NP'), ('khi', 'N', 'B-NP'), ('ban', 'N', 'B-NP'), ('điều hành', 'V', 'B-VP'), ('biến đổi', 'N', 'B-NP'), ('khí hậu', 'V', 'B-VP'), ('liên chính phủ', 'N', 'B-NP'), ('gọi', 'V', 'B-VP'), ('tắt', 'V', 'B-VP'), ('là', 'C', 'O'), ('ipcc', 'N', 'B-NP'), ('đưa', 'V', 'B-VP'), ('ra', 'V', 'B-VP'), ('bài', 'N', 'B-NP'), ('nghiên cứu', 'V', 'B-VP'), ('của', 'E', 'B-PP'), ('họ', 'P', 'B-NP'), ('về', 'V', 'B-VP'), ('hệ thống', 'N', 'B-NP'), ('khí quyển', 'M', 'B-NP')]
+
+[('nghiên cứu', 'V', 'B-VP'), ('được', 'V', 'B-VP'), ('viết', 'V', 'B-VP'), ('bởi', 'E', 'B-PP'), ('620', 'N', 'B-NP'), ('nhà khoa học', 'V', 'B-VP'), ('từ', 'E', 'B-PP'), ('40', 'M', 'B-NP'), ('quốc gia', 'N', 'B-NP'), ('khác', 'A', 'B-AP'), ('nhau', 'N', 'B-NP')]
+
+[('họ', 'P', 'B-NP'), ('viết', 'V', 'B-VP'), ('gần', 'A', 'B-AP'), ('1000', 'M', 'B-NP'), ('trang', 'N', 'B-NP'), ('về', 'E', 'B-PP'), ('chủ đề', 'N', 'B-NP'), ('này', 'P', 'B-NP')]
+
+[('và', 'C', 'O'), ('tất cả', 'P', 'B-NP'), ('các', 'L', 'B-NP'), ('trang', 'N', 'B-NP'), ('đều', 'R', 'O'), ('được', 'V', 'B-VP'), ('xem xét', 'V', 'B-VP'), ('bởi', 'E', 'B-PP'), ('400', 'M', 'B-NP'), ('khoa học gia', 'N', 'B-NP'), ('và', 'C', 'O'), ('nhà', 'N', 'B-NP'), ('phê bình', 'N', 'B-NP'), ('khác', 'A', 'B-AP'), ('từ', 'E', 'B-PP'), ('113', 'N', 'B-NP'), ('quốc gia', 'N', 'B-NP')]
+
+[('đó', 'P', 'B-NP'), ('là', 'V', 'B-VP'), ('cả', 'T', 'O'), ('một', 'M', 'B-NP'), ('cộng đồng', 'N', 'B-NP'), ('lớn', 'A', 'B-AP'), ('lớn', 'A', 'B-AP'), ('đến nỗi', 'X', 'O'), ('trên', 'E', 'B-PP'), ('thực tế', 'N', 'B-NP'), ('cuộc', 'N', 'B-NP'), ('tụ hội', 'V', 'B-VP'), ('hằng', 'R', 'O'), ('năm', 'N', 'B-NP'), ('của', 'E', 'B-PP'), ('chúng tôi', 'P', 'B-NP'), ('là', 'V', 'B-VP'), ('hội nghị', 'N', 'B-NP'), ('khoa học', 'N', 'B-NP'), ('91', 'M', 'B-NP'), ('tự nhiên', 'N', 'B-NP'), ('93', 'N', 'B-NP'), ('lớn', 'A', 'B-AP'), ('nhất', 'A', 'B-AP'), ('thế giới', 'N', 'B-NP')]
+
+[('mỗi', 'L', 'B-NP'), ('năm', 'N', 'B-NP'), ('hơn', 'A', 'B-AP'), ('15000', 'M', 'B-NP'), ('nhà khoa học', 'N', 'B-NP'), ('đến', 'E', 'B-PP'), ('san', 'V', 'B-VP'), ('francisco', 'N', 'B-NP'), ('để', 'E', 'B-PP'), ('tham dự', 'V', 'B-VP'), ('hội nghị', 'N', 'B-NP'), ('này', 'P', 'B-NP')]
+
+[('mỗi', 'L', 'B-NP'), ('một', 'M', 'B-NP'), ('khoa học gia', 'N', 'B-NP'), ('đều', 'R', 'O'), ('thuộc', 'V', 'B-VP'), ('một', 'M', 'B-NP'), ('nhóm', 'N', 'B-NP'), ('nghiên cứu', 'V', 'B-VP'), ('và', 'C', 'O'), ('mỗi', 'L', 'B-NP'), ('nhóm', 'N', 'B-NP'), ('đều', 'R', 'O'), ('nghiên cứu', 'V', 'B-VP'), ('rất', 'R', 'O'), ('nhiều', 'A', 'B-AP'), ('đề tài', 'N', 'B-NP'), ('đa dạng', 'A', 'B-AP')]
+
+[('với', 'E', 'B-PP'), ('chúng tôi', 'P', 'B-NP'), ('tại', 'E', 'B-PP'), ('cambridge', 'N', 'B-NP'), ('các', 'L', 'B-NP'), ('đề tài', 'N', 'B-NP'), ('thay đổi', 'V', 'B-VP'), ('từ', 'E', 'B-PP'), ('sự', 'N', 'B-NP'), ('dao động', 'V', 'B-VP'), ('của', 'E', 'B-PP'), ('el', 'N', 'B-NP'), ('niño', 'N', 'B-NP'), ('vốn', 'R', 'O'), ('có', 'V', 'B-VP'), ('tác động', 'V', 'B-VP'), ('đến', 'E', 'B-PP'), ('thời tiết', 'N', 'B-NP'), ('và', 'C', 'O'), ('khí hậu sự', 'V', 'B-VP'), ('đồng hoá', 'V', 'B-VP'), ('thông tin', 'N', 'B-NP'), ('từ', 'E', 'B-PP'), ('vệ tinh khí', 'N', 'B-NP'), ('thải', 'V', 'B-VP'), ('từ', 'E', 'B-PP'), ('những', 'L', 'B-NP'), ('cánh', 'N', 'B-NP'), ('đồng', 'N', 'B-NP'), ('nhiên liệu', 'N', 'B-NP'), ('sinh học', 'N', 'B-NP'), ('tình cờ', 'A', 'B-AP'), ('lại', 'R', 'O'), ('là', 'V', 'B-VP'), ('đề tài', 'N', 'B-NP'), ('tôi', 'P', 'B-NP'), ('nghiên cứu', 'V', 'B-VP')]
+
+[('mỗi', 'L', 'B-NP'), ('lĩnh vực', 'N', 'B-NP'), ('nghiên cứu', 'V', 'B-VP'), ('lại', 'R', 'O'), ('chia', 'V', 'B-VP'), ('ra', 'V', 'B-VP'), ('những', 'L', 'B-NP'), ('lĩnh vực', 'N', 'B-NP'), ('nhỏ', 'A', 'B-AP'), ('hơn', 'A', 'B-AP'), ('và', 'C', 'O'), ('những', 'L', 'B-NP'), ('nghiên cứu sinh', 'N', 'B-NP'), ('có', 'V', 'B-VP'), ('bằng', 'E', 'B-PP'), ('tiến sĩ', 'N', 'B-NP'), ('như', 'C', 'O'), ('tôi', 'P', 'B-NP'), ('phải', 'V', 'B-VP'), ('nghiên cứu', 'V', 'B-VP'), ('những', 'L', 'B-NP'), ('đề tài', 'N', 'B-NP'), ('vô cùng', 'R', 'O'), ('cụ thể', 'A', 'B-AP'), ('cụ thể', 'A', 'B-AP'), ('như', 'C', 'O'), ('chỉ', 'R', 'O'), ('vài', 'L', 'B-NP'), ('quy trình', 'N', 'B-NP'), ('hay', 'C', 'O'), ('vài', 'L', 'B-NP'), ('phân tử', 'M', 'B-NP')]
+
+[('một', 'M', 'B-NP'), ('trong', 'E', 'B-PP'), ('số', 'N', 'B-NP'), ('những', 'L', 'B-NP'), ('phân tử', 'N', 'B-NP'), ('tôi', 'P', 'B-NP'), ('nghiên cứu', 'V', 'B-VP'), ('tên', 'N', 'B-NP'), ('là', 'V', 'B-VP'), ('isoprene', 'V', 'B-VP'), ('đây', 'P', 'B-NP'), ('nó', 'P', 'B-NP'), ('là', 'V', 'B-VP'), ('một', 'M', 'B-NP'), ('phân tử', 'N', 'B-NP'), ('hữu cơ', 'A', 'B-AP'), ('nhỏ', 'A', 'B-AP'), ('có thể', 'R', 'O'), ('các', 'L', 'B-NP'), ('bạn', 'N', 'B-NP'), ('cũng', 'R', 'O'), ('chưa', 'R', 'O'), ('từng', 'R', 'O'), ('nghe', 'V', 'B-VP'), ('tên', 'N', 'B-NP')]
+
+[('trọng lượng', 'N', 'B-NP'), ('của', 'E', 'B-PP'), ('một', 'M', 'B-NP'), ('chiếc', 'Nc', 'B-NP'), ('kẹp', 'N', 'B-NP'), ('giấy', 'N', 'B-NP'), ('vào', 'E', 'B-PP'), ('khoảng', 'N', 'B-NP'), ('900', 'M', 'B-NP'), ('zetaillion', 'N', 'B-NP'), ('10', 'M', 'B-NP'), ('mũ', 'N', 'B-NP'), ('21', 'M', 'B-NP'), ('phân tử', 'N', 'B-NP'), ('isoprene', 'M', 'B-NP')]
+
+[('dù', 'C', 'O'), ('trọng lượng', 'N', 'B-NP'), ('phân tử', 'N', 'B-NP'), ('rất', 'R', 'O'), ('nhỏ', 'A', 'B-AP'), ('thế', 'T', 'O'), ('nhưng', 'C', 'O'), ('lượng', 'N', 'B-NP'), ('isoprene', 'N', 'B-NP'), ('được', 'V', 'B-VP'), ('thải', 'V', 'B-VP'), ('vào', 'E', 'B-PP'), ('khí quyển', 'N', 'B-NP'), ('hàng', 'N', 'B-NP'), ('năm', 'N', 'B-NP'), ('ngang ngửa', 'M', 'B-NP'), ('với', 'E', 'B-PP'), ('tổng', 'N', 'B-NP'), ('trọng lượng', 'N', 'B-NP'), ('của', 'E', 'B-PP'), ('dân số', 'N', 'B-NP'), ('toàn cầu', 'N', 'B-NP')]
+
+[('đó', 'P', 'B-NP'), ('là', 'V', 'B-VP'), ('một', 'M', 'B-NP'), ('lượng', 'N', 'B-NP'), ('khí', 'N', 'B-NP'), ('thải', 'V', 'B-VP'), ('khổng lồ', 'A', 'B-AP'), ('bằng', 'E', 'B-PP'), ('tổng', 'N', 'B-NP'), ('trọng lượng', 'N', 'B-NP'), ('của', 'E', 'B-PP'), ('mêtan', 'M', 'B-NP')]
+
+[('chính', 'T', 'O'), ('vì', 'E', 'B-PP'), ('lượng', 'N', 'B-NP'), ('khí', 'N', 'B-NP'), ('thải', 'V', 'B-VP'), ('rất', 'R', 'O'), ('lớn', 'A', 'B-AP'), ('nó', 'P', 'B-NP'), ('có', 'V', 'B-VP'), ('ý nghĩa', 'N', 'B-NP'), ('quan trọng', 'A', 'B-AP'), ('với', 'E', 'B-PP'), ('hệ thống', 'N', 'B-NP'), ('khí quyển', 'M', 'B-NP')]
+
+[('chính', 'T', 'O'), ('vì', 'E', 'B-PP'), ('nó', 'P', 'B-NP'), ('có', 'V', 'B-VP'), ('ý nghĩa', 'N', 'B-NP'), ('quan trọng', 'A', 'B-AP'), ('với', 'E', 'B-PP'), ('hệ thống', 'N', 'B-NP'), ('khí quyển', 'N', 'B-NP'), ('giá', 'N', 'B-NP'), ('nào', 'P', 'B-NP'), ('chúng tôi', 'P', 'B-NP'), ('cũng', 'R', 'O'), ('theo đuổi', 'V', 'B-VP'), ('nghiên cứu', 'V', 'B-VP'), ('này', 'P', 'B-NP'), ('đến', 'E', 'B-PP'), ('cùng', 'A', 'B-AP')]
+
+[('chúng tôi', 'P', 'B-NP'), ('cho', 'E', 'B-PP'), ('nó', 'P', 'B-NP'), ('nổ', 'V', 'B-VP'), ('và', 'C', 'O'), ('xem xét', 'V', 'B-VP'), ('từng', 'R', 'O'), ('mảnh', 'N', 'B-NP'), ('nhỏ', 'A', 'B-AP')]
+
+[('đây', 'P', 'B-NP'), ('là', 'V', 'B-VP'), ('phòng', 'N', 'B-NP'), ('nghiên cứu', 'V', 'B-VP'), ('khói', 'N', 'B-NP'), ('bụi', 'N', 'B-NP'), ('euphore', 'N', 'B-NP'), ('ở', 'E', 'B-PP'), ('tây', 'N', 'B-NP'), ('ban', 'N', 'B-NP'), ('nha', 'M', 'B-NP')]
+
+[('nổ', 'V', 'B-VP'), ('trong', 'E', 'B-PP'), ('không khí', 'N', 'B-NP'), ('hay', 'C', 'O'), ('cháy', 'V', 'B-VP'), ('hoàn toàn', 'A', 'B-AP'), ('diễn', 'V', 'B-VP'), ('ra', 'V', 'B-VP'), ('chậm', 'A', 'B-AP'), ('hơn', 'A', 'B-AP'), ('15000', 'M', 'B-NP'), ('lần', 'N', 'B-NP'), ('so', 'V', 'B-VP'), ('với', 'E', 'B-PP'), ('những', 'L', 'B-NP'), ('phản ứng', 'N', 'B-NP'), ('trong', 'E', 'B-PP'), ('động cơ', 'N', 'B-NP'), ('xe', 'N', 'B-NP')]
+
+[('dù', 'C', 'O'), ('vậy', 'P', 'B-NP'), ('chúng tôi', 'P', 'B-NP'), ('vẫn', 'R', 'O'), ('xem xét', 'V', 'B-VP'), ('từng', 'R', 'O'), ('mảnh', 'N', 'B-NP'), ('nhỏ', 'A', 'B-AP')]
+
+[('chúng tôi', 'P', 'B-NP'), ('chạy', 'V', 'B-VP'), ('những', 'L', 'B-NP'), ('mô hình', 'N', 'B-NP'), ('khổng lồ', 'A', 'B-AP'), ('trên', 'E', 'B-PP'), ('siêu', 'Z', 'O'), ('máy tính', 'N', 'B-NP'), ('đây', 'P', 'B-NP'), ('là', 'V', 'B-VP'), ('công việc', 'N', 'B-NP'), ('của', 'E', 'B-PP'), ('tôi', 'P', 'B-NP')]
+
+[('mô hình', 'N', 'B-NP'), ('của', 'E', 'B-PP'), ('chúng tôi', 'P', 'B-NP'), ('gồm', 'V', 'B-VP'), ('hàng', 'N', 'B-NP'), ('trăm ngàn', 'N', 'B-NP'), ('thùng', 'N', 'B-NP'), ('xếp', 'V', 'B-VP'), ('chồng', 'N', 'B-NP'), ('tính toán', 'V', 'B-VP'), ('với', 'E', 'B-PP'), ('hàng', 'R', 'O'), ('trăm', 'M', 'B-NP'), ('biến số', 'N', 'B-NP'), ('trong', 'E', 'B-PP'), ('thời gian', 'N', 'B-NP'), ('cực ngắn', 'M', 'B-NP')]
+
+[('mà', 'C', 'O'), ('vẫn', 'R', 'O'), ('cần', 'V', 'B-VP'), ('hàng', 'N', 'B-NP'), ('tuần', 'N', 'B-NP'), ('mới', 'R', 'O'), ('thực hiện', 'V', 'B-VP'), ('xong', 'R', 'O'), ('các', 'L', 'B-NP'), ('phép', 'N', 'B-NP'), ('tích phân', 'M', 'B-NP')]
+
+[('chúng tôi', 'P', 'B-NP'), ('cần', 'V', 'B-VP'), ('làm', 'V', 'B-VP'), ('hàng', 'N', 'B-NP'), ('tá', 'N', 'B-NP'), ('phép tính', 'A', 'B-AP'), ('như thế', 'X', 'O'), ('để', 'E', 'B-PP'), ('hiểu', 'V', 'B-VP'), ('được', 'R', 'O'), ('những', 'L', 'B-NP'), ('gì', 'P', 'B-NP'), ('đang', 'R', 'O'), ('xảy', 'V', 'B-VP'), ('ra', 'V', 'B-VP')]
+
+[('chúng tôi', 'P', 'B-NP'), ('còn', 'R', 'O'), ('bay', 'V', 'B-VP'), ('khắp', 'A', 'B-AP'), ('thế giới', 'N', 'B-NP'), ('để', 'E', 'B-PP'), ('tìm', 'V', 'B-VP'), ('phân tử', 'N', 'B-NP'), ('này', 'P', 'B-NP')]
+
+[('gần', 'A', 'B-AP'), ('đây', 'P', 'B-NP'), ('tôi', 'P', 'B-NP'), ('tham gia', 'V', 'B-VP'), ('một', 'M', 'B-NP'), ('cuộc', 'N', 'B-NP'), ('khảo sát', 'V', 'B-VP'), ('thực địa', 'N', 'B-NP'), ('ở', 'E', 'B-PP'), ('malaysia', 'N', 'B-NP'), ('còn', 'R', 'O'), ('nhiều', 'A', 'B-AP'), ('chuyến', 'N', 'B-NP'), ('khác', 'A', 'B-AP'), ('nữa', 'R', 'O')]
+
+[('chúng tôi', 'P', 'B-NP'), ('tìm', 'V', 'B-VP'), ('thấy', 'V', 'B-VP'), ('một', 'M', 'B-NP'), ('tháp canh', 'N', 'B-NP'), ('khí hậu', 'V', 'B-VP'), ('toàn cầu', 'N', 'B-NP'), ('ở', 'E', 'B-PP'), ('đó', 'P', 'B-NP'), ('ngay', 'T', 'O'), ('giữa', 'E', 'B-PP'), ('rừng', 'N', 'B-NP'), ('sâu', 'A', 'B-AP'), ('và', 'C', 'O'), ('chúng tôi', 'P', 'B-NP'), ('treo', 'V', 'B-VP'), ('các', 'L', 'B-NP'), ('thiết bị', 'N', 'B-NP'), ('nghiên cứu', 'V', 'B-VP'), ('trị giá', 'V', 'B-VP'), ('hàng', 'N', 'B-NP'), ('trăm ngàn', 'V', 'B-VP'), ('đô la', 'N', 'B-NP'), ('xa', 'A', 'B-AP'), ('khỏi', 'V', 'B-VP'), ('cái', 'Nc', 'B-NP'), ('tháp', 'N', 'B-NP'), ('để', 'E', 'B-PP'), ('tìm', 'V', 'B-VP'), ('isoprene', 'N', 'B-NP'), ('và', 'C', 'O'), ('tất nhiên', 'R', 'O'), ('là', 'V', 'B-VP'), ('những', 'L', 'B-NP'), ('thứ', 'N', 'B-NP'), ('khác', 'A', 'B-AP'), ('nữa', 'R', 'O'), ('trong', 'E', 'B-PP'), ('suốt', 'A', 'B-AP'), ('thời gian', 'N', 'B-NP'), ('ở', 'E', 'B-PP'), ('đó', 'P', 'B-NP')]
+
+[('đây', 'P', 'B-NP'), ('chính', 'T', 'O'), ('là', 'V', 'B-VP'), ('cái', 'T', 'O'), ('tháp', 'A', 'B-AP'), ('giữa', 'E', 'B-PP'), ('rừng', 'N', 'B-NP'), ('sâu', 'A', 'B-AP'), ('nhìn', 'V', 'B-VP'), ('từ', 'E', 'B-PP'), ('trên', 'N', 'B-NP'), ('cao', 'A', 'B-AP')]
+
+[('và', 'C', 'O'), ('từ', 'E', 'B-PP'), ('dưới', 'N', 'B-NP'), ('đất', 'N', 'B-NP')]
+
+[('có', 'V', 'B-VP'), ('giai đoạn', 'N', 'B-NP'), ('chúng tôi', 'P', 'B-NP'), ('còn', 'R', 'O'), ('mang', 'V', 'B-VP'), ('cả', 'T', 'O'), ('máy bay', 'N', 'B-NP'), ('theo', 'V', 'B-VP')]
+
+[('chiếc', 'Nc', 'B-NP'), ('phi cơ', 'N', 'B-NP'), ('này', 'P', 'B-NP'), ('mẫu', 'N', 'B-NP'), ('ba146', 'N', 'B-NP'), ('do', 'E', 'B-PP'), ('faam', 'N', 'B-NP'), ('sở hữu', 'V', 'B-VP'), ('thông thường', 'A', 'B-AP'), ('có thể', 'R', 'O'), ('chở', 'V', 'B-VP'), ('từ', 'E', 'B-PP'), ('120130', 'M', 'B-NP'), ('người', 'N', 'B-NP')]
+
+[('rất', 'R', 'O'), ('có thể', 'R', 'O'), ('bạn', 'N', 'B-NP'), ('đã', 'R', 'O'), ('ở', 'V', 'B-VP'), ('trên', 'E', 'B-PP'), ('một', 'M', 'B-NP'), ('chiếc', 'Nc', 'B-NP'), ('tương tự', 'A', 'B-AP'), ('khi', 'N', 'B-NP'), ('đến', 'V', 'B-VP'), ('đây', 'P', 'B-NP'), ('hôm nay', 'N', 'B-NP')]
+
+[('chúng tôi', 'P', 'B-NP'), ('không', 'R', 'O'), ('chỉ', 'R', 'O'), ('bay', 'V', 'B-VP'), ('chúng tôi', 'P', 'B-NP'), ('bay', 'V', 'B-VP'), ('cách', 'N', 'B-NP'), ('tầng', 'N', 'B-NP'), ('vòm', 'N', 'B-NP'), ('của', 'E', 'B-PP'), ('rừng', 'N', 'B-NP'), ('100', 'M', 'B-NP'), ('mét', 'Nu', 'B-NP'), ('để', 'E', 'B-PP'), ('đo đạc', 'V', 'B-VP'), ('phân tử', 'N', 'B-NP'), ('này', 'P', 'B-NP'), ('chuyện', 'N', 'B-NP'), ('vô cùng', 'R', 'O'), ('nguy hiểm', 'A', 'B-AP')]
+
+[('chúng tôi', 'P', 'B-NP'), ('phải', 'V', 'B-VP'), ('bay', 'V', 'B-VP'), ('với', 'E', 'B-PP'), ('độ', 'N', 'B-NP'), ('nghiêng', 'A', 'B-AP'), ('đặc biệt', 'A', 'B-AP'), ('để', 'E', 'B-PP'), ('thực hiện', 'V', 'B-VP'), ('các', 'L', 'B-NP'), ('phép đo', 'M', 'B-NP')]
+
+[('phải', 'V', 'B-VP'), ('thuê', 'V', 'B-VP'), ('quân đội', 'N', 'B-NP'), ('và', 'C', 'O'), ('sát hạch', 'V', 'B-VP'), ('phi cơ', 'N', 'B-NP'), ('để', 'E', 'B-PP'), ('điều khiển', 'V', 'B-VP'), ('máy bay', 'N', 'B-NP')]
+
+[('phải', 'V', 'B-VP'), ('xin', 'V', 'B-VP'), ('lệnh', 'N', 'B-NP'), ('đặc biệt', 'A', 'B-AP'), ('cho', 'V', 'B-VP'), ('phép', 'N', 'B-NP'), ('bay', 'V', 'B-VP')]
+
+[('khi', 'N', 'B-NP'), ('bay', 'V', 'B-VP'), ('quanh', 'N', 'B-NP'), ('những', 'L', 'B-NP'), ('bờ', 'N', 'B-NP'), ('sông', 'N', 'B-NP'), ('ở', 'E', 'B-PP'), ('thung lũng', 'N', 'B-NP'), ('các', 'L', 'B-NP'), ('lực', 'N', 'B-NP'), ('tác động', 'V', 'B-VP'), ('có thể', 'R', 'O'), ('lên', 'V', 'B-VP'), ('tới', 'T', 'O'), ('2', 'M', 'B-NP'), ('g', 'Nu', 'B-NP')]
+
+[('các', 'L', 'B-NP'), ('nhà khoa học', 'N', 'B-NP'), ('phải', 'V', 'B-VP'), ('được', 'V', 'B-VP'), ('thắt', 'V', 'B-VP'), ('chặt', 'A', 'B-AP'), ('hoàn toàn', 'A', 'B-AP'), ('vào', 'E', 'B-PP'), ('ghế', 'N', 'B-NP'), ('để', 'E', 'B-PP'), ('có thể', 'R', 'O'), ('thực hiện', 'V', 'B-VP'), ('đo đạc', 'V', 'B-VP'), ('trên', 'E', 'B-PP'), ('máy bay', 'N', 'B-NP')]
+
+[('vì vậy', 'C', 'O'), ('bạn', 'N', 'B-NP'), ('có thể', 'R', 'O'), ('hình dung', 'V', 'B-VP'), ('bên', 'N', 'B-NP'), ('trong', 'N', 'B-NP'), ('đó', 'P', 'B-NP'), ('hoàn toàn', 'A', 'B-AP'), ('không', 'R', 'O'), ('giống', 'A', 'B-AP'), ('với', 'E', 'B-PP'), ('bất kỳ', 'A', 'B-AP'), ('chiếc', 'Nc', 'B-NP'), ('máy bay', 'N', 'B-NP'), ('du lịch', 'N', 'B-NP'), ('nào', 'P', 'B-NP'), ('khác', 'A', 'B-AP')]
+
+[('đó', 'P', 'B-NP'), ('là', 'V', 'B-VP'), ('cả', 'T', 'O'), ('một', 'M', 'B-NP'), ('phòng thí nghiệm', 'N', 'B-NP'), ('di động', 'V', 'B-VP'), ('để', 'E', 'B-PP'), ('giúp', 'V', 'B-VP'), ('chúng tôi', 'P', 'B-NP'), ('thực hiện', 'V', 'B-VP'), ('các', 'L', 'B-NP'), ('phép đo', 'M', 'B-NP')]
+
+[('chúng tôi', 'P', 'B-NP'), ('làm', 'V', 'B-VP'), ('tất cả', 'P', 'B-NP'), ('chỉ', 'R', 'O'), ('để', 'E', 'B-PP'), ('tìm hiểu', 'V', 'B-VP'), ('tính chất', 'N', 'B-NP'), ('hoá học', 'N', 'B-NP'), ('của', 'E', 'B-PP'), ('một', 'M', 'B-NP'), ('phân tử', 'N', 'B-NP')]
+
+[('khi', 'N', 'B-NP'), ('nghiên cứu sinh', 'V', 'B-VP'), ('như', 'C', 'O'), ('tôi', 'P', 'B-NP'), ('có', 'V', 'B-VP'), ('sở thích', 'N', 'B-NP'), ('hay', 'C', 'O'), ('hiểu biết', 'V', 'B-VP'), ('về', 'E', 'B-PP'), ('phân tử', 'N', 'B-NP'), ('đó', 'P', 'B-NP'), ('đại loại', 'A', 'B-AP'), ('như thế', 'X', 'O'), ('họ', 'P', 'B-NP'), ('sẽ', 'R', 'O'), ('viết', 'V', 'B-VP'), ('cả', 'T', 'O'), ('một', 'M', 'B-NP'), ('bài', 'N', 'B-NP'), ('nghiên cứu', 'V', 'B-VP'), ('khoa học', 'N', 'B-NP'), ('về', 'E', 'B-PP'), ('đề tài', 'N', 'B-NP'), ('đó', 'P', 'B-NP')]
+
+[('và', 'C', 'O'), ('ngoài', 'E', 'B-PP'), ('cuộc', 'N', 'B-NP'), ('khảo sát', 'V', 'B-VP'), ('đó', 'P', 'B-NP'), ('chúng tôi', 'P', 'B-NP'), ('sẽ', 'R', 'O'), ('còn', 'V', 'B-VP'), ('hàng', 'N', 'B-NP'), ('tá', 'M', 'B-NP'), ('bài', 'N', 'B-NP'), ('nghiên cứu', 'V', 'B-VP'), ('về', 'E', 'B-PP'), ('hàng', 'N', 'B-NP'), ('tá', 'V', 'B-VP'), ('các', 'L', 'B-NP'), ('quy trình', 'N', 'B-NP'), ('hay', 'C', 'O'), ('phân tử', 'M', 'B-NP')]
+
+[('khi', 'N', 'B-NP'), ('một', 'M', 'B-NP'), ('phần', 'N', 'B-NP'), ('kiến thức', 'N', 'B-NP'), ('dần', 'R', 'O'), ('định hình', 'V', 'B-VP'), ('nó', 'P', 'B-NP'), ('sẽ', 'R', 'O'), ('tạo', 'V', 'B-VP'), ('thành', 'V', 'B-VP'), ('một', 'M', 'B-NP'), ('tiểu mục', 'N', 'B-NP'), ('hay', 'C', 'O'), ('một', 'M', 'B-NP'), ('tiểutiểu', 'N', 'B-NP'), ('mục', 'A', 'B-AP'), ('trong', 'E', 'B-PP'), ('một', 'M', 'B-NP'), ('bản', 'N', 'B-NP'), ('kiểm định', 'A', 'B-AP'), ('như', 'C', 'O'), ('ở', 'E', 'B-PP'), ('ipcc', 'N', 'B-NP'), ('mặc dù', 'C', 'O'), ('còn', 'R', 'O'), ('có', 'V', 'B-VP'), ('nhiều', 'A', 'B-AP'), ('bài', 'N', 'B-NP'), ('khác', 'A', 'B-AP')]
+
+[('mỗi', 'L', 'B-NP'), ('một', 'M', 'B-NP'), ('chương', 'N', 'B-NP'), ('trong', 'E', 'B-PP'), ('11', 'M', 'B-NP'), ('chương', 'N', 'B-NP'), ('của', 'E', 'B-PP'), ('ipcc', 'N', 'B-NP'), ('có', 'V', 'B-VP'), ('từ', 'E', 'B-PP'), ('6', 'M', 'B-NP'), ('đến', 'E', 'B-PP'), ('10', 'M', 'B-NP'), ('tiểu mục', 'N', 'B-NP'), ('như', 'C', 'O'), ('thế', 'P', 'B-NP')]
+
+[('nói', 'V', 'B-VP'), ('như thế', 'X', 'O'), ('để', 'E', 'B-PP'), ('bạn', 'N', 'B-NP'), ('hình dung', 'V', 'B-VP'), ('được', 'R', 'O'), ('quy mô', 'V', 'B-VP'), ('của', 'E', 'B-PP'), ('những', 'L', 'B-NP'), ('nỗ lực', 'N', 'B-NP'), ('này', 'P', 'B-NP')]
+

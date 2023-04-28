@@ -1,0 +1,100 @@
+[rachel pike]NP [khoa học]N [đằng sau]PP [một tiêu đề]NP [về]VP [khí hậu]NP 
+
+[trong]PP [4]QP [phút]NP [chuyên gia hoá học khí quyển rachel pike]NP [giới thiệu]VP [sơ lược]NP [về]VP [những nỗ lực khoa học miệt mài]NP [đằng sau]PP [những tiêu đề táo bạo]NP [về]VPVP [biến đổi khí hậu]NP [cùng] [với] [đoàn] [nghiên cứu] [của] [mình] [hàng] [ngàn] [người] [đã] [cống hiến] [cho] [dự án] [này] [một] [chuyến] [bay] [mạo hiểm] [qua] [rừng già] [để] [tìm kiếm] [thông tin] [về]VP [một] [phân tử] [then chốt] 
+
+[tôi]NP [muốn cho]VP [các bạn]NP [biết]VP [về]VP [sự to lớn]NP [của]PP [những nỗ lực khoa học]NP [đã góp phần làm nên]VP [các dòng tít]NP [bạn]NP [thường thấy]VP [trên]PP [báo]NP 
+
+[có]VP [những dòng]NP [trông]VP [như]PP [thế này]NP [khi]PP [bàn]NP [về]VP [biến đổi khí hậu]NP [và]PP [như]PP [thế này]NP [khi]PP [nói về]VP [chất lượng không khí]NP [hay] [khói bụi]NP 
+
+[cả hai]NP [đều]PP [là]VP [một nhánh]NP [của]PP [cùng]PP [một lĩnh vực trong ngành khoa học khí quyển]NP 
+
+[các tiêu đề gần đây]NP [trông]VP [như]PP [thế này]NP [khi ban điều hành]NP [biến đổi]VP [khí hậu]NP [liên chính phủ]NP [gọi]VP [tắt]PP [là]VP [ipcc]NP [đưa]VP [ra]PP [bài nghiên cứu]NP [của]PP [họ]NP [về]VP [hệ thống khí quyển]NP 
+
+[nghiên cứu]NP [được viết]VP [bởi]PP [620]QP [nhà khoa học]NP [từ]PP [40]QP [quốc gia]NP [khác nhau]AP 
+
+[họ]NP [viết]VP [gần]AP [1000]QP [trang]NP [về]VP [chủ đề này]NP
+ 
+[và]PP [tất cả]AP [các trang]NP [đều]PP [được xem xét]VP [bởi]PP [400]QP [khoa học gia]NP [và]PP [nhà phê bình]NP [khác]AP [từ]PP [113]QP [quốc gia]NP 
+
+[đó]NP [là]VP [cả một cộng đồng]NP [lớn]AP [lớn]AP [đến nỗi]PP [trên]PP [thực tế]NP [cuộc tụ hội]NP [hằng năm]AP [của]PP [chúng tôi]NP [là]VP [hội nghị khoa học]NP [91] [tự nhiên]AP [93]QP [lớn nhất]AP [thế giới]NP 
+
+[mỗi năm]NP [hơn] [15000]QP [nhà khoa học]NP [đến]PP [san francisco]NP [để]PP [tham dự]VP [hội nghị này]NP 
+
+[mỗi một khoa học gia]NP [đều thuộc]VP [một nhóm nghiên cứu]NP [và]PP [mỗi nhóm]NP [đều nghiên cứu]VP [rất]AP [nhiều đề tài]NP [đa dạng]AP
+ 
+[với]PP [chúng tôi]NPNP [tại]PP [cambridge]NP [các đề tài]NP [thay đổi]VP [từ]PP [sự dao động của el niño]NP [vốn]PP [có tác động]VP [đến]PP [thời tiết]NP [và]PP [khí hậu sự đồng hoá thông tin]NP [từ]PP [vệ tinh khí thải]NP [từ]PP [những cánh đồng nhiên liệu sinh học]NP [tình cờ]AP [lại]PP [là]VP [đề tài]NP [tôi]NP [nghiên cứu]VP 
+
+[mỗi lĩnh vực nghiên cứu]NP [lại]PP [chia]VP [ra]NP [những lĩnh vực]NP [nhỏ hơn]AP [và]PP [những nghiên cứu sinh]NP [có]VP [bằng tiến sĩ]NP [như]PP [tôi]NP [phải nghiên cứu]VP [những đề tài]NP [vô cùng]AP [cụ thể]AP [cụ thể]AP [như]PP [chỉ]PP [vài quy trình]NP [hay]PP [vài phân tử]NP 
+
+[một trong số những phân tử]NP [tôi]NP [nghiên cứu]VP [tên]VP [là]VP [isoprene]NP [đây]NP [nó]NP [là]VP [một phân tử hữu cơ]NP [nhỏ]AP [có thể]AP [các bạn]NP [cũng]PP [chưa từng]AP [nghe tên]VP 
+
+[trọng lượng]NP [của]PP [một chiếc kẹp giấy]NP [vào]VP [khoảng]AP [900]QP [zetaillion]NP [10]QP [mũ]NP [21]QP [phân tử isoprene]NP 
+
+[dù] [trọng lượng phân tử]NP [rất nhỏ]AP [thế]PP [nhưng]PP [lượng isoprene]NP [được thải]NP [vào]PP [khí quyển]PP [hàng năm]AP [ngang ngửa]AP [với]PP [tổng trọng lượng]NP [của]PP [dân số]NP [toàn cầu]AP 
+
+[đó]NP [là]VP [một lượng khí thải]NP [khổng lồ]AP [bằng]PP [tổng trọng lượng]NP [của]PP [mêtan]NP 
+
+[chính] [vì]PP [lượng khí thải]NP [rất lớn]AP [nó]NP [có]VP [ý nghĩa]NP [quan trọng]AP [với]PP [hệ thống khí quyển]NP 
+
+[chính] [vì]PP [nó]NP [có]VP [ý nghĩa]NP [quan trọng]AP [với]PP [hệ thống khí quyển]NP [giá nào]NP [chúng tôi]NP [cũng theo đuổi]VP [nghiên cứu này]NP [đến cùng]AP 
+
+[chúng tôi]NP [cho]VP [nó]NP [nổ]VP [và]PP [xem xét]VP [từng mảnh]NP [nhỏ]AP 
+
+[đây] [là]VP [phòng nghiên cứu khói bụi euphore]NP [ở]PP [tây ban nha]NP 
+
+[nổ]VP [trong]PP [không khí]NP [hay]PP [cháy]VP [hoàn toàn]AP [diễn ra]VP [chậm hơn]AP [15000]QP [lần]NP [so]PP [với]PP [những phản ứng]NP [trong]PP [động cơ xe]NP 
+
+[dù] [vậy] [chúng tôi]NP [vẫn xem xét]VP [từng mảnh]NP [nhỏ]AP 
+
+[chúng tôi]NP [chạy]VP [những mô hình]NP [khổng lồ]AP [trên]PP [siêu máy tính]NP [đây]NP [là]VP [công việc]NP [của]PP [tôi]NP 
+
+[mô hình]NP [của]PP [chúng tôi]NP [gồm]VP [hàng trăm ngàn thùng]NP [xếp chồng]VP [tính toán]VP [với]PP [hàng trăm biến số]NP [trong]PP [thời gian]NP [cực ngắn]AP 
+
+[mà]PP [vẫn] [cần]VP [hàng tuần]NP [mới]AP [thực hiện]VP [xong]PP [các phép tích phân]NP 
+
+[chúng tôi]NP [cần làm]VP [hàng tá phép tính]NP [như thế]AP [để hiểu]VP [được]PP [những gì]NP [đang xảy ra]VP 
+
+[chúng tôi]NP [còn]PP [bay]VP [khắp]PP [thế giới]NP [để tìm]VP [phân tử này]NP 
+
+[gần đây]AP [tôi]NP [tham gia]VP [một cuộc]NP [khảo sát]VP [thực địa]NP [ở]PP [malaysia]NP [còn]PP [nhiều chuyến]NP [khác]AP [nữa]PP 
+
+[chúng tôi]NP [tìm thấy]VP [một tháp canh khí hậu toàn cầu]NP [ở]PP [đó]NP [ngay]PP [giữa]PP [rừng]NP [sâu]AP [và]PP [chúng tôi]NP [treo]VP [các thiết bị nghiên cứu]NP [trị giá]VP [hàng trăm ngàn]NP [đô la]NP [xa]AP [khỏi]PP [cái tháp]NP [để tìm]VP [isoprene]NP [và]PP [tất nhiên]AP [là]VP [những thứ khác]VP [nữa]PP [trong]PP [suốt]PP [thời gian]NP [ở]PP [đó]NP 
+
+[đây]NP [chính]PP [là]VP [cái tháp]NP [giữa]PP [rừng]NP [sâu]AP [nhìn]VP [từ]PP [trên]PP [cao]AP 
+
+[và] [từ]PP [dưới]PP [đất]NP 
+
+[có]VP [giai đoạn]NP [chúng tôi]NP [còn mang]VP [cả]PP [máy bay]NP [theo] 
+
+[chiếc phi cơ này mẫu ba146]NP [do]PP [faam]NP [sở hữu]VP [thông thường]AP [có thể chở]VP [từ]PP [120130]QP [người]NP 
+
+[rất] [có thể]VP [bạn]NP [đã ở]VP [trên]PP [một chiếc]PP [tương tự]AP [khi]PP [đến]VP [đây]NP [hôm nay]AP 
+
+[chúng tôi]NP [không chỉ]AP [bay]VP [chúng tôi]NP [bay]VP [cách]PP [tầng vòm]NP [của]PP [rừng]NP [100]QP [mét]NP [để đo đạc]VP [phân tử này]NP [chuyện]NP [vô cùng nguy hiểm]AP 
+
+[chúng tôi]NP [phải bay]VP [với]PP [độ nghiêng]NP [đặc biệt]AP [để thực hiện]VP [các phép đo]NP 
+
+[phải thuê]VP [quân đội]NP [và]PP [sát hạch]VP [phi cơ]NP [để điều khiển]VP [máy bay]NP 
+
+[phải xin]VP [lệnh]NP [đặc biệt]AP [cho phép bay]VP 
+
+[khi] [bay]VP [quanh]PP [những bờ sông]NP [ở]PP [thung lũng]NP [các lực tác động]NP [có thể lên]VP [tới]PP [2]QP [gs]NP 
+
+[các nhà khoa học]NP [phải được thắt chặt]VP [hoàn toàn]NP [vào]VP [ghế]NP [để có thể thực hiện]VP [đo đạc]VP [trên]PP [máy bay]NP 
+
+[vì vậy]PP [bạn]NP [có thể hình dung]VP [bên]PP [trong]NP [đó]NP [hoàn toàn]AP [không]PP [giống]AP [với]PP [bất kỳ]AP [chiếc máy bay du lịch]NP [nào]PP [khác]AP 
+
+[đó]NP [là]VP [cả một phòng thí nghiệm di động]NP [để giúp]VP [chúng tôi]NP [thực hiện]VP [các phép đo]NP 
+
+[chúng tôi]NP [làm]VP [tất cả]NP [chỉ]PP [để tìm hiểu]NP [tính chất hoá học]NP [của]PP [một phân tử]PP 
+
+[khi]PP [nghiên cứu sinh]NP [như]PP [tôi]NP [có]VP [sở thích]NP [hay]PP [hiểu biết]VP [về]VP [phân tử đó]NP [đại loại như thế]AP [họ]NP [sẽ viết]VP [cả một bài nghiên cứu khoa học]NP [về]VP [đề tài đó]NP 
+
+[và]PP [ngoài]PP [cuộc khảo sát]NP [đó]NP [chúng tôi]NPNP [sẽ]PP [còn]PP [hàng tá bài nghiên cứu]NP [về]VP [hàng tá các quy trình hay phân tử]NP 
+
+[khi]PP [một phần kiến thức]VP [dần]AP [định hình]VP [nó]NP [sẽ tạo]VP [thành]PP [một tiểu mục]NP [hay]PP [một tiểu mục]NP [trong]PP [một bản kiểm định]NP [như]PP [ở]PP [ipcc]NP [mặc dù]PP [còn]PP [có]VP [nhiều bài]NP [khác]AP 
+
+[mỗi một chương]NP [trong]PP [11]QP [chương]NP [của]PP [ipcc]NP [có]VP [từ]PP [6]QP [đến]PP [10]QP [tiểu mục]NP [như thế]AP 
+
+[nói]VP [như thế]AP [để] [bạn]NP [hình dung]VP [được]PP [quy mô]NP [của]PP [những nỗ lực này]NP 
+
